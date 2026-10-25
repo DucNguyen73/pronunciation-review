@@ -40,7 +40,13 @@ Không có tài khoản, máy chủ dữ liệu, analytics, CDN hoặc API trả
 - `tests/core.test.cjs`: kiểm tra dữ liệu và logic học bằng `node --test tests/core.test.cjs`.
 - `tests/browser.py`: kiểm tra tích hợp bằng Python Playwright và Chromium có sẵn; chạy khi máy chủ ở cổng 8000 đang hoạt động. Đây là công cụ kiểm tra, không phải phụ thuộc chạy website.
 
-Bản website chỉ phục vụ local; không đăng tải hay đồng bộ dữ liệu ra ngoài.
+Website có thể chạy local hoặc trên GitHub Pages. Tiến độ vẫn chỉ lưu trong trình duyệt, không đồng bộ lên GitHub. Tiến độ tại localhost không tự chuyển sang địa chỉ website; hãy xuất JSON ở địa chỉ cũ rồi nhập ở địa chỉ mới.
+
+## Triển khai GitHub Pages
+
+Trong repository GitHub, mở Settings → Pages → Build and deployment → Source và chọn **GitHub Actions**. Workflow `.github/workflows/pages.yml` chạy kiểm tra cú pháp và tests trước khi triển khai mỗi lần push lên `main`; có thể chạy lại từ Actions → Deploy GitHub Pages → Run workflow.
+
+Địa chỉ dự kiến: https://ducnguyen73.github.io/pronunciation-review/. Workflow chỉ xuất HTML, CSS, JavaScript và PDF nguồn; không xuất tests, báo cáo audit hoặc cấu hình IDE. Trạng thái triển khai và URL thực tế nằm trong Actions và environment `github-pages`.
 
 ## Bản cải thiện sau dùng thử
 
