@@ -1,0 +1,38 @@
+- link "Đến nội dung chính":
+  - /url: "#main"
+- complementary:
+  - link "Âm, trang chủ":
+    - /url: "#home"
+    - text: âm• PHÒNG LUYỆN PHÁT ÂM
+  - text: GÓC HỌC CỦA BẠN
+  - navigation "Điều hướng chính":
+    - link "Hôm nay":
+      - /url: "#home"
+    - link "Thư viện bài học 29":
+      - /url: "#lessons"
+    - link "Thẻ ghi nhớ 0":
+      - /url: "#review"
+    - link "Luyện tập":
+      - /url: "#quiz"
+    - link "Tiến độ":
+      - /url: "#progress"
+  - text: Không gian học cá nhân
+  - paragraph: Tiến độ được lưu trên trình duyệt này.
+  - link "⚙ Cài đặt & bản sao lưu":
+    - /url: "#settings"
+- banner:
+  - text: Học từng chút. Nói tự tin hơn.
+  - link "Tài liệu gốc":
+    - /url: assets/source.pdf
+- main:
+  - text: KHÔNG GIAN HỌC TẬP
+  - heading "Bạn đã dành thời gian để nhớ sâu hơn." [level=1]
+  - paragraph: Đã ôn 5 thẻ. Lịch ôn tiếp theo đã được lưu.
+  - text: Thứ Năm, 22 tháng 10
+  - heading "Hẹn gặp lại trong phiên ôn tiếp theo" [level=2]
+  - paragraph: "Lần ôn tiếp theo: 07:48 29/10. Bạn có thể học bài tiếp theo ngay bây giờ."
+  - link "Học bài tiếp theo →":
+    - /url: "#lesson/l1"
+  - link "Xem tiến độ":
+    - /url: "#progress"
+- contentinfo: Âm · Hành trình phát âm của bạn Từ tài liệu “Tóm tắt lộ trình học phát âm”

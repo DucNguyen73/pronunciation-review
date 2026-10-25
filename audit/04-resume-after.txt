@@ -1,0 +1,78 @@
+- link "Đến nội dung chính":
+  - /url: "#main"
+- complementary:
+  - link "Âm, trang chủ":
+    - /url: "#home"
+    - text: âm• PHÒNG LUYỆN PHÁT ÂM
+  - text: GÓC HỌC CỦA BẠN
+  - navigation "Điều hướng chính":
+    - link "Hôm nay":
+      - /url: "#home"
+    - link "Thư viện bài học 29":
+      - /url: "#lessons"
+    - link "Thẻ ghi nhớ 5":
+      - /url: "#review"
+    - link "Luyện tập":
+      - /url: "#quiz"
+    - link "Tiến độ":
+      - /url: "#progress"
+  - text: Không gian học cá nhân
+  - paragraph: Tiến độ được lưu trên trình duyệt này.
+  - link "⚙ Cài đặt & bản sao lưu":
+    - /url: "#settings"
+- banner:
+  - text: Học từng chút. Nói tự tin hơn.
+  - link "Tài liệu gốc":
+    - /url: assets/source.pdf
+- main:
+  - text: KHÔNG GIAN HỌC TẬP
+  - heading "Thử sức, hiểu mình hơn." [level=1]
+  - paragraph: Mỗi câu hỏi là một lần luyện nhớ. Đọc giải thích để hiểu vì sao.
+  - text: Thứ Năm, 22 tháng 10 PHIÊN LUYỆN ĐANG DỞ
+  - 'heading "Phụ âm: ch, j và những biến thể" [level=2]'
+  - paragraph: Câu 2 / 5 · 2 câu đã trả lời. Phiên được giữ khi bạn chuyển trang trong website.
+  - link "Tiếp tục bài đang làm →":
+    - /url: "#quiz/resume"
+  - text: LUYỆN TỔNG HỢP
+  - heading "10 câu, một bước tiến." [level=2]
+  - paragraph: Kết hợp các chủ đề từ phát âm từng từ đến ngữ điệu cả câu. Câu trả lời có giải thích và liên kết bài học.
+  - button "Bắt đầu luyện tập →"
+  - separator
+  - text: Hoặc luyện riêng một bài
+  - combobox "Hoặc luyện riêng một bài":
+    - 'option "Phụ âm: ch, j và những biến thể" [selected]'
+    - 'option "Phụ âm: âm xì và âm răng"'
+    - 'option "Phụ âm: c, ng, qu và gu"'
+    - 'option "Nguyên âm: nhóm chữ và e cuối"'
+    - 'option "Nguyên âm: ee, ea, ear và ew"'
+    - option "Nguyên âm đơn và âm schwa"
+    - option "Nguyên âm đi với r"
+    - option "01 · Các cách đọc ex-"
+    - option "02 · Trọng âm và các đuôi thường gặp"
+    - option "03 · Đuôi -ate, -gy, -cy, -ize"
+    - option "03 · Tiền tố con-, com-, pro-"
+    - option "03 · Đuôi nhận trọng âm và đuôi yếu"
+    - option "04 · Đuôi thường giữ trọng âm gốc"
+    - option "05 · Trọng âm theo từ loại"
+    - option "06 · Ba cách đọc đuôi -ed"
+    - option "07 · Ba cách đọc đuôi -s/-es"
+    - option "08 · Flap T trong giọng Mỹ"
+    - option "09 · Lược t trong nt + nguyên âm"
+    - option "10 · Held T và âm n tạo âm tiết"
+    - option "11 · Phụ âm tắc và âm không bật"
+    - option "12 · Đồng hóa âm"
+    - option "13 · Chữ viết tắt"
+    - option "14 · Lược âm schwa"
+    - option "15 · Từ ghép và cụm mô tả"
+    - option "16 · Dạng rút gọn"
+    - option "17 · Giảm âm trong lời nói"
+    - option "18 · Nối âm"
+    - option "19 · Nhịp câu và từ được nhấn"
+    - option "20 · Lên giọng và xuống giọng"
+  - button "Luyện bài đã chọn"
+  - complementary:
+    - text: HỌC TỪ LỖI SAI
+    - heading "2 câu cần xem lại" [level=2]
+    - paragraph: Câu trả lời sai được giữ ở đây đến khi bạn trả lời đúng trong một lần luyện tiếp theo.
+    - button "Luyện lại câu sai →"
+- contentinfo: Âm · Hành trình phát âm của bạn Từ tài liệu “Tóm tắt lộ trình học phát âm”

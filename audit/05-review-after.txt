@@ -1,0 +1,50 @@
+- link "Đến nội dung chính":
+  - /url: "#main"
+- complementary:
+  - link "Âm, trang chủ":
+    - /url: "#home"
+    - text: âm• PHÒNG LUYỆN PHÁT ÂM
+  - text: GÓC HỌC CỦA BẠN
+  - navigation "Điều hướng chính":
+    - link "Hôm nay":
+      - /url: "#home"
+    - link "Thư viện bài học 29":
+      - /url: "#lessons"
+    - link "Thẻ ghi nhớ 5":
+      - /url: "#review"
+    - link "Luyện tập":
+      - /url: "#quiz"
+    - link "Tiến độ":
+      - /url: "#progress"
+  - text: Không gian học cá nhân
+  - paragraph: Tiến độ được lưu trên trình duyệt này.
+  - link "⚙ Cài đặt & bản sao lưu":
+    - /url: "#settings"
+- banner:
+  - text: Học từng chút. Nói tự tin hơn.
+  - link "Tài liệu gốc":
+    - /url: assets/source.pdf
+- main:
+  - link "← Thư viện bài học":
+    - /url: "#lessons"
+  - text: THẺ GHI NHỚ
+  - heading "Nhớ lại, trước khi xem." [level=1]
+  - paragraph: Hãy nói câu trả lời thành tiếng rồi lật thẻ.
+  - text: Thứ Năm, 22 tháng 10 Thẻ 1 / 5
+  - 'link "Phụ âm: ch, j và những biến thể"':
+    - /url: "#lesson/l1"
+  - progressbar "Tiến độ hoàn thành"
+  - paragraph: Chưa tìm thấy giọng tiếng Anh. Hãy cài giọng tiếng Anh trong thiết lập giọng nói của hệ điều hành rồi tải lại trang.
+  - link "Cài đặt giọng đọc →":
+    - /url: "#settings"
+  - text: BẠN CÒN NHỚ KHÔNG?
+  - heading "ch trong “church” đọc là gì?" [level=2]
+  - button "▷ Nghe ví dụ"
+  - strong: /tʃ/
+  - paragraph: church có ch đọc /tʃ/, như teach và catch.
+  - paragraph: Bạn nhớ câu này ở mức nào?
+  - button "Chưa nhớ Ôn lại sau 1 ngày"
+  - button "Còn khó Ôn lại sau 3 ngày"
+  - button "Đã nhớ Ôn lại sau 7 ngày"
+  - paragraph: Ôn tối đa 20 thẻ mỗi phiên. Bạn có thể bắt đầu phiên khác để ôn các thẻ còn lại.
+- contentinfo: Âm · Hành trình phát âm của bạn Từ tài liệu “Tóm tắt lộ trình học phát âm”

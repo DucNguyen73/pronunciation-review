@@ -1,0 +1,84 @@
+- link "Đến nội dung chính":
+  - /url: "#main"
+- complementary:
+  - link "Âm, trang chủ":
+    - /url: "#home"
+    - text: âm• PHÒNG LUYỆN PHÁT ÂM
+  - text: GÓC HỌC CỦA BẠN
+  - navigation "Điều hướng chính":
+    - link "Hôm nay":
+      - /url: "#home"
+    - link "Thư viện bài học 29":
+      - /url: "#lessons"
+    - link "Thẻ ghi nhớ 0":
+      - /url: "#review"
+    - link "Luyện tập":
+      - /url: "#quiz"
+    - link "Tiến độ":
+      - /url: "#progress"
+  - text: Không gian học cá nhân
+  - paragraph: Tiến độ được lưu trên trình duyệt này.
+  - link "⚙ Cài đặt & bản sao lưu":
+    - /url: "#settings"
+- banner:
+  - text: Học từng chút. Nói tự tin hơn.
+  - link "Tài liệu gốc":
+    - /url: assets/source.pdf
+- main:
+  - link "← Thư viện bài học":
+    - /url: "#lessons"
+  - text: Âm nền tảng
+  - 'heading "Phụ âm: ch, j và những biến thể" [level=1]'
+  - paragraph: Một cách viết có thể biểu thị nhiều âm. Học theo từ và nghe cả từ thay vì đoán chỉ từ mặt chữ.
+  - text: Thứ Năm, 22 tháng 10
+  - heading "Điều cần ghi nhớ" [level=2]
+  - text: TÓM TẮT TỪ PDF
+  - list:
+    - listitem: ch có thể là /tʃ/, /k/ hoặc /ʃ/.
+    - listitem: j và nhiều từ có ge, gi, gy biểu thị /dʒ/.
+    - listitem: du, tu có thể biến đổi tùy từ và giọng; su có thể là /ʒ/, /ʃ/ hoặc /sw/.
+  - strong: Đọc cùng ghi chú
+  - text: "Bổ sung: duty, Tuesday, tube có biến thể Anh–Mỹ. Không áp dụng một cách đọc cho mọi từ có cùng nhóm chữ."
+  - heading "Nghe & đọc theo" [level=2]
+  - text: Chậm trước, tự nhiên sau
+  - paragraph: Giọng tổng hợp hỗ trợ nghe từ và câu; cách nối âm, giảm âm và ngữ điệu có thể khác mẫu trong bài.
+  - paragraph: Chưa tìm thấy giọng tiếng Anh. Hãy cài giọng tiếng Anh trong thiết lập giọng nói của hệ điều hành rồi tải lại trang.
+  - link "Cài đặt giọng đọc →":
+    - /url: "#settings"
+  - text: church
+  - button "Nghe church": ▷ Nghe
+  - text: /tʃ/
+  - paragraph: church có ch đọc /tʃ/, như teach và catch.
+  - text: character
+  - button "Nghe character": ▷ Nghe
+  - text: /k/
+  - paragraph: character thuộc nhóm ch đọc /k/, như ache và stomach.
+  - text: machine
+  - button "Nghe machine": ▷ Nghe
+  - text: /ʃ/
+  - paragraph: machine và chef có ch đọc /ʃ/.
+  - text: gym
+  - button "Nghe gym": ▷ Nghe
+  - text: /dʒ/
+  - paragraph: gym thuộc nhóm gy đọc /dʒ/, như biology.
+  - text: usual
+  - button "Nghe usual": ▷ Nghe
+  - text: /ʒ/
+  - paragraph: usual và visual có âm /ʒ/ ở vị trí này.
+  - heading "Đối chiếu tài liệu" [level=2]
+  - paragraph: Các trang gốc giữ đầy đủ ví dụ. Bản chữ trích xuất có thể còn lỗi định dạng hoặc ghi chú viết tay; mở PDF để xem bản gốc.
+  - group: Nội dung trang PDF 1
+  - link "Bài tiếp theo →":
+    - /url: "#lesson/l2"
+  - complementary:
+    - text: GÓC HỌC NHỎ
+    - heading "Học để dùng được" [level=3]
+    - paragraph: 1. Đọc quy tắc và ghi chú. 2. Nghe, đọc lại từng ví dụ. 3. Thử sức với 5 câu hỏi.
+    - paragraph: "Trang PDF: 1 Điểm tốt nhất: —"
+    - button "Đánh dấu đã đọc"
+    - link "Luyện bài này →":
+      - /url: "#quiz/l1"
+    - link "Ôn thẻ bài này":
+      - /url: "#review/l1"
+    - paragraph: Hoàn thành khi đã đọc và đạt ít nhất 80% bài kiểm tra.
+- contentinfo: Âm · Hành trình phát âm của bạn Từ tài liệu “Tóm tắt lộ trình học phát âm”

@@ -1,0 +1,45 @@
+- link "Đến nội dung chính":
+  - /url: "#main"
+- complementary:
+  - link "Âm, trang chủ":
+    - /url: "#home"
+    - text: âm• PHÒNG LUYỆN PHÁT ÂM
+  - text: GÓC HỌC CỦA BẠN
+  - navigation "Điều hướng chính":
+    - link "Hôm nay":
+      - /url: "#home"
+    - link "Thư viện bài học 29":
+      - /url: "#lessons"
+    - link "Thẻ ghi nhớ 5":
+      - /url: "#review"
+    - link "Luyện tập":
+      - /url: "#quiz"
+    - link "Tiến độ":
+      - /url: "#progress"
+  - text: Không gian học cá nhân
+  - paragraph: Tiến độ được lưu trên trình duyệt này.
+  - link "⚙ Cài đặt & bản sao lưu":
+    - /url: "#settings"
+- banner:
+  - text: Học từng chút. Nói tự tin hơn.
+  - link "Tài liệu gốc":
+    - /url: assets/source.pdf
+- main:
+  - link "← Chọn bài luyện":
+    - /url: "#quiz"
+  - text: "Phụ âm: ch, j và những biến thể Câu 2 / 5 Từng câu một, không cần vội."
+  - progressbar "Tiến độ hoàn thành"
+  - text: Âm nền tảng
+  - heading "su trong “usual” biểu thị âm nào?" [level=2]
+  - button "▷ Nghe ví dụ"
+  - button "A /sw/ ✕" [disabled]
+  - button "B /ʒ/ ✓" [disabled]
+  - button "C /s/" [disabled]
+  - status:
+    - strong: Cùng xem lại nhé.
+    - paragraph: usual và visual có âm /ʒ/ ở vị trí này.
+    - link "Xem bài học →":
+      - /url: "#lesson/l1"
+  - button "Câu tiếp theo →"
+- contentinfo: Âm · Hành trình phát âm của bạn Từ tài liệu “Tóm tắt lộ trình học phát âm”
+- status: Đã lưu bài đã đọc. Thẻ ghi nhớ của bài đã được mở.
