@@ -1,5 +1,16 @@
 # Kiểm tra bản bàn giao
 
+## Mở rộng Luyện tập — 2026-10-29
+
+- Ngân hàng: 1.201 câu cho 29 bài, tham chiếu đủ 32 trang; mỗi bài 11–88 câu. Giữ đủ 128 ID gốc. PDF, bản chữ nguồn và nội dung bài đọc/ví dụ tóm tắt không đổi. Xem `PRACTICE_COVERAGE.md` để đối chiếu nhóm ví dụ, ID và các hiệu chỉnh/ngoại lệ.
+- 7 kiểm thử Node đạt: toàn vẹn ID/3 lựa chọn/lời giải/trang nguồn, lựa chọn bài và giá trị không hợp lệ, tương thích bản sao cũ, lịch ôn cũ/mới, điểm cao nhất, khoảng ôn và kiểm tra dữ liệu nhập. Cấu trúc hợp lệ không tự chứng minh mọi đáp án đúng về ngôn ngữ; nội dung được rà theo nhóm trong báo cáo đối chiếu.
+- `tests/practice.browser.js` đạt qua Playwright CLI + Chrome Dev: nhớ bài khi đổi lựa chọn/điều hướng/tải lại, mở bài trực tiếp và tiếp tục bài cũ; làm hết 14 câu bài -ed; giải thích đúng phương án sau đảo thứ tự; mở giải thích còn lại/PDF; giữ điểm cũ; luyện tổng hợp 10 câu; luyện sai tối đa 20; mở và lên lịch thẻ mới; nhập bản sao schema cũ; lưu trữ bị chặn vẫn dùng được trong phiên.
+- 6 tổ hợp phản hồi dài: sáng/tối × 1440/390/320 px không tràn ngang. Đã xem ảnh phản hồi đúng/sai ở `output/playwright/practice-*.png`; phần giải thích tổng quát không lặp lại nguyên đoạn đã có ở lời giải đáp án.
+- Chạy lại `tests/browser.py` đạt: điều hướng, tìm kiếm, làm trọn 67 câu bài đầu, hoàn thành, lưu tiến độ, ôn thẻ, luyện sai, xuất/nhập/xóa có xác nhận, giả lập giọng/tốc độ, PDF, mobile và fallback khi chặn lưu trữ/thiếu speech API. `tests/ux-review.py` đạt: tiếp tục đúng câu/feedback, focus, nút nghe và 24 tổ hợp đường dẫn/kích thước; ảnh mới lưu trong `output/playwright/ux-regression`, không ghi đè bằng chứng audit cũ.
+- Không có lỗi JavaScript trong các bộ kiểm tra trên. Server local có favicon.ico 404 riêng, không ảnh hưởng chức năng. Kiểm tra cú pháp JavaScript và `git diff --check` đạt. Đo 100 lượt tính thẻ đến hạn với cả ngân hàng được mở mất khoảng 5,3 ms trên máy này; đây là đo local, không là chứng nhận tải đa người dùng.
+- Test Python hỗ trợ `PLAYWRIGHT_CHROMIUM_EXECUTABLE`, `PRONUNCIATION_TEST_URL`; UX hỗ trợ `PRONUNCIATION_UX_OUTPUT` để giữ bằng chứng gốc. Lần này dùng Chrome Dev và cổng 8011, thư viện Python Playwright cài tạm ngoài repository.
+- Chưa kiểm tra thay đổi này trên Safari/Firefox hoặc thiết bị thật, chưa nghe kiểm định từng ví dụ bằng giọng người. Phiên luyện dở không khôi phục qua tải lại theo phạm vi đã chốt. Chưa commit, push hoặc deploy.
+
 ## Chế độ tối — 2026-10-29
 
 - Local Chrome Dev qua Playwright: đổi sáng/tối, trạng thái `aria-pressed`, giữ cả hai lựa chọn sau tải lại và đổi giao diện khi localStorage bị chặn đều đạt.

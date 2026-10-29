@@ -1,6 +1,6 @@
 # Âm · Phòng luyện phát âm
 
-Website tự học tiếng Việt từ “Tóm tắt lộ trình học phát âm”. 29 bài học, 128 câu luyện, 5 chủ đề; đủ phần nền tảng và 20 phần đánh số của PDF. Phần trọng âm và đồng hóa được chia thành bài nhỏ, số đầu tiêu đề giữ số phần trong tài liệu.
+Website tự học tiếng Việt từ “Tóm tắt lộ trình học phát âm”. 29 bài học, 1.201 câu luyện, 5 chủ đề; đủ phần nền tảng và 20 phần đánh số của PDF. Phần trọng âm và đồng hóa được chia thành bài nhỏ, số đầu tiêu đề giữ số phần trong tài liệu.
 
 ## Chạy trên máy
 
@@ -16,6 +16,8 @@ Hoặc chạy `python3 start.py` trong thư mục này để tự mở trình du
 Mở **http://localhost:8000** bằng Chrome, Edge, Firefox hoặc Safari. Giữ cùng địa chỉ/cổng và trình duyệt để dùng lại tiến độ. Dừng máy chủ bằng Ctrl+C. Không nên mở index.html trực tiếp vì cơ chế lưu trữ với file:// khác nhau giữa các trình duyệt.
 
 ## Cách học
+
+Trong **Luyện tập**, bài đã chọn được nhớ ngay trên trình duyệt (cả khi quay lại hoặc tải lại trang). Luyện riêng một bài dùng toàn bộ câu hỏi của bài; mỗi câu có giải thích cho lựa chọn của bạn, đáp án đúng, các phương án còn lại và liên kết trang PDF. Phiên luyện đang dở chỉ giữ khi điều hướng trong cùng lượt mở, không khôi phục sau tải lại. Câu hỏi mới cũng thành thẻ ôn khi bài đã được đánh dấu đã đọc; mỗi phiên thẻ vẫn tối đa 20 câu.
 
 Nút **Chế độ tối / Chế độ sáng** ở thanh trên cùng đổi giao diện ngay và lưu lựa chọn trên trình duyệt. Lựa chọn này độc lập với tiến độ học và bản sao JSON; nếu trình duyệt chặn lưu trữ, giao diện chỉ được giữ trong phiên hiện tại.
 
@@ -58,3 +60,10 @@ Trong repository GitHub, mở Settings → Pages → Build and deployment → So
 - Cải thiện chữ IPA, độ rõ đáp án, focus khi chuyển câu và hiển thị lịch ôn tiếp theo.
 - Báo cáo dùng thử có ảnh trước/sau ở `audit/index.html` hoặc `AUDIT.md`. Mở **http://localhost:8000/audit/** khi đang chạy máy chủ.
 - Kiểm tra mới: `python3 tests/ux-review.py` (cùng yêu cầu Playwright và Chromium như kiểm tra tích hợp).
+
+## Đối chiếu và kiểm tra ngân hàng mở rộng
+
+- `PRACTICE_COVERAGE.md`: bảng quy tắc/ví dụ, ID câu và các hiệu chỉnh cho đủ 29 bài/32 trang.
+- `tests/core.test.cjs`: toàn vẹn câu hỏi/lời giải, giữ 128 ID cũ, tương thích bản sao và lịch ôn.
+- `tests/practice.browser.js`: kiểm tra chọn bài, lời giải theo đáp án đã đảo, làm hết bài, luyện sai, thẻ mới và localStorage bị chặn. Chạy bằng `playwright-cli run-code --filename=tests/practice.browser.js` sau khi mở website local bằng Playwright CLI; từ chối chạy trên domain trực tuyến để tránh thay dữ liệu học thật. Dùng context kiểm thử riêng.
+- Lời giải được biên soạn sẵn; không gọi AI/API lúc làm bài. Các ký hiệu/biến thể ghi trong đề là phạm vi chấm đáp án; giọng tổng hợp của thiết bị có thể đọc khác biến thể đang luyện.

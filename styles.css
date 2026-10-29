@@ -42,3 +42,12 @@ nav .mobile-only{display:none}
 [data-theme=dark] dialog::backdrop{background:#0009}
 @media(max-width:760px){.topbar{height:auto;min-height:62px;gap:12px;padding-top:8px;padding-bottom:8px}.topbar>span{max-width:130px}.topbar-actions{gap:10px}#theme-toggle{font-size:11px;padding:8px}}
 .two-col>*{min-width:0}
+
+.feedback h3{font-size:15px;margin:18px 0 6px}
+.feedback p,.mistake p{overflow-wrap:anywhere}
+.option-explanations{margin:18px 0;border-top:1px solid var(--line);padding-top:12px}
+.option-explanations summary{cursor:pointer;font-weight:600;min-height:44px;display:flex;align-items:center}
+.option-explanations>div{margin-top:14px}
+.question-sources{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}
+.explanation-origin{font-size:12px}
+#quiz-lesson{min-width:0;width:100%}

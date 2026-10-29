@@ -1,9 +1,10 @@
 """Integration QA. Run with local server at port 8000; Python Playwright + Chromium required."""
 from playwright.sync_api import sync_playwright
-import json, pathlib, tempfile
+import json, pathlib, tempfile, os
+BASE_URL=os.environ.get('PRONUNCIATION_TEST_URL','http://127.0.0.1:8000').rstrip('/')
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 with sync_playwright() as p:
-    browser=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
+    browser=p.chromium.launch(executable_path=os.environ.get('PLAYWRIGHT_CHROMIUM_EXECUTABLE','/usr/bin/chromium'),headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
     page=browser.new_page(viewport={'width':1440,'height':1100},device_scale_factor=1)
     def go(url):
         response=page.goto(url)
@@ -12,7 +13,7 @@ with sync_playwright() as p:
         return response
     errors=[]
     page.on('pageerror',lambda err: errors.append(str(err)))
-    assert go('http://127.0.0.1:8000').status==200
+    assert go(BASE_URL).status==200
     page.keyboard.press('Tab')
     assert page.locator('.skip').evaluate('(el)=>el===document.activeElement')
     page.keyboard.press('Enter')
@@ -21,20 +22,21 @@ with sync_playwright() as p:
     page.screenshot(path='/tmp/am-desktop.png',full_page=True)
     assert page.locator('h1').inner_text()=='Mỗi ngày, một chút tiến bộ.'
     page.locator('a[href="#lessons"]').first.click()
+    page.wait_for_function('document.querySelector("#main").dataset.route==="lessons"')
     assert page.locator('.lesson-card').count()==29
     page.locator('#search').fill('flap')
     assert page.locator('.lesson-card').count()>=1
     assert 'Flap' in page.locator('.lesson-card').first.inner_text()
     page.locator('#search').fill('zzzz-no-result')
     assert page.locator('.lesson-card').count()==0
-    go('http://127.0.0.1:8000/#lesson/l1')
+    go(BASE_URL+'/#lesson/l1')
     page.get_by_role('button',name='Đánh dấu đã đọc',exact=True).click()
     assert json.loads(page.evaluate('localStorage.getItem("am-pronunciation-v1")'))['read']==['l1']
     page.reload()
     assert page.get_by_role('button',name='✓ Đã đọc bài',exact=True).count()==1
     page.locator('a[href="#quiz/l1"]').click()
     page.locator('.option').first.wait_for()
-    for i in range(5):
+    for i in range(page.evaluate('quiz.questions.length')):
         answer=page.evaluate('quiz.questions[quiz.index].answer')
         opts=page.locator('.option')
         if i==0:
@@ -48,7 +50,7 @@ with sync_playwright() as p:
     assert page.locator('.result-number').inner_text()=='100%'
     state=json.loads(page.evaluate('localStorage.getItem("am-pronunciation-v1")'))
     assert state['scores']['l1']==100
-    go('http://127.0.0.1:8000/#review')
+    go(BASE_URL+'/#review')
     firstid=page.evaluate('review.ids[review.index]')
     page.get_by_role('button',name='Lật thẻ để kiểm tra').click()
     page.locator('[data-action="rate:3"]').click()
@@ -56,17 +58,17 @@ with sync_playwright() as p:
     assert state['cards'][firstid]['interval']==3
     assert page.evaluate('review.index')==1
     # Wrong answer persists, then disappears after a correct answer in a later attempt.
-    go('http://127.0.0.1:8000/#quiz/l2')
+    go(BASE_URL+'/#quiz/l2')
     qid=page.evaluate('quiz.questions[0].id')
     bad=page.evaluate('quiz.questions[0].options.findIndex(o=>o!==quiz.questions[0].answer)')
     page.locator('.option').nth(bad).click()
     assert qid in json.loads(page.evaluate('localStorage.getItem("am-pronunciation-v1")'))['wrong']
-    go('http://127.0.0.1:8000/#quiz')
+    go(BASE_URL+'/#quiz')
     page.locator('[data-action="wrong"]').click()
     idx=page.evaluate('quiz.questions[0].options.indexOf(quiz.questions[0].answer)')
     page.locator('.option').nth(idx).click()
     assert qid not in json.loads(page.evaluate('localStorage.getItem("am-pronunciation-v1")'))['wrong']
-    go('http://127.0.0.1:8000/#settings')
+    go(BASE_URL+'/#settings')
     # Download then reject destructive reset, reset and restore actual downloaded backup.
     with page.expect_download() as download:
         page.locator('[data-action="export"]').click()
@@ -110,18 +112,18 @@ with sync_playwright() as p:
     # All routes fit a narrow phone viewport and render without JS errors.
     page.set_viewport_size({'width':390,'height':844})
     for route in ['home','lessons','lesson/l1','quiz','quiz/l1','review','progress','settings','missing']:
-        go('http://127.0.0.1:8000/#'+route)
+        go(BASE_URL+'/#'+route)
         assert page.evaluate('document.documentElement.scrollWidth<=window.innerWidth'),route
-    go('http://127.0.0.1:8000/#home')
+    go(BASE_URL+'/#home')
     page.evaluate('document.querySelector("#toast").classList.remove("show")')
     page.screenshot(path='/tmp/am-mobile.png',full_page=True)
-    assert page.request.get('http://127.0.0.1:8000/assets/source.pdf').status==200
+    assert page.request.get(BASE_URL+'/assets/source.pdf').status==200
     assert not errors,errors
     # Storage denied and no speech API must still allow learning.
     ctx=browser.new_context()
     ctx.add_init_script('Object.defineProperty(window,"localStorage",{get(){throw new Error("blocked")}}); Object.defineProperty(window,"speechSynthesis",{value:undefined});')
     denied=ctx.new_page()
-    denied.goto('http://127.0.0.1:8000/#lesson/l1')
+    denied.goto(BASE_URL+'/#lesson/l1')
     denied.get_by_role('button',name='Đánh dấu đã đọc',exact=True).click()
     assert denied.get_by_role('button',name='✓ Đã đọc bài',exact=True).count()==1
     denied.locator('[data-speak]').first.click()

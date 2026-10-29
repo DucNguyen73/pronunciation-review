@@ -1,6 +1,6 @@
 (function (root) {
 'use strict';
-const blank = () => ({version:1,read:[],scores:{},cards:{},wrong:[],activity:{},settings:{voice:'',rate:0.85}});
+const blank = () => ({version:1,read:[],scores:{},cards:{},wrong:[],activity:{},settings:{voice:'',rate:0.85,quizLessonId:'l1'}});
 const dayKey = (date=new Date()) => `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;
 function validate(raw, lessons) {
  if(!raw || raw.version!==1 || !Array.isArray(raw.read) || !Array.isArray(raw.wrong) || !raw.scores || !raw.cards || !raw.activity || !raw.settings) throw Error('Tệp không đúng định dạng bản sao lưu Âm phiên bản 1.');
@@ -11,6 +11,7 @@ function validate(raw, lessons) {
  for(const [d,n] of Object.entries(raw.activity)) if(/^\d{4}-\d{2}-\d{2}$/.test(d)&&Number.isInteger(n)&&n>=0&&n<1000000) state.activity[d]=n;
  state.settings.voice=typeof raw.settings.voice==='string'?raw.settings.voice.slice(0,300):'';
  state.settings.rate=Number.isFinite(raw.settings.rate)?Math.min(1.2,Math.max(0.6,raw.settings.rate)):0.85;
+ state.settings.quizLessonId=lids.has(raw.settings.quizLessonId)?raw.settings.quizLessonId:(lessons[0]?.id||'');
  return state;
 }
 const completed=(s,l)=>s.read.includes(l.id)&&(s.scores[l.id]||0)>=80;

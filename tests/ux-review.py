@@ -1,10 +1,12 @@
 """Hands-on flow regression and screenshots following the UX review."""
 from pathlib import Path
+import os
+BASE_URL=os.environ.get('PRONUNCIATION_TEST_URL','http://127.0.0.1:8000').rstrip('/')
 from playwright.sync_api import sync_playwright
-OUT=Path(__file__).resolve().parent.parent/'audit'
+OUT=Path(os.environ.get('PRONUNCIATION_UX_OUTPUT',str(Path(__file__).resolve().parent.parent/'audit')))
 OUT.mkdir(exist_ok=True)
 with sync_playwright() as p:
- b=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
+ b=p.chromium.launch(executable_path=os.environ.get('PLAYWRIGHT_CHROMIUM_EXECUTABLE','/usr/bin/chromium'),headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
  page=b.new_page(viewport={'width':1366,'height':960})
  errors=[];page.on('pageerror',lambda err:errors.append(str(err)))
  def observe():return page.locator('body').aria_snapshot()
@@ -14,9 +16,9 @@ with sync_playwright() as p:
  def click(locator):
   observe();locator.click()
  def route(hash):
-  page.goto('http://127.0.0.1:8000/#'+hash)
+  page.goto(BASE_URL+'/#'+hash)
   page.wait_for_function('(hash)=>document.querySelector("main").dataset.route===hash',arg=hash)
- page.goto('http://127.0.0.1:8000')
+ page.goto(BASE_URL)
  snap('01-home-after')
  click(page.get_by_role('link',name='Bắt đầu phiên học'))
  page.locator('.rules').wait_for();snap('02-lesson-after')
@@ -40,12 +42,12 @@ with sync_playwright() as p:
  page.locator('.feedback').wait_for()
  assert page.locator('#question-title').inner_text()==qtext
  assert page.locator('.feedback').inner_text()==chosen
- assert 'Câu 2 / 5' in page.locator('.section-head').inner_text()
+ assert f"Câu 2 / {page.evaluate('quiz.questions.length')}" in page.locator('.section-head').inner_text()
  # A deliberate retry is new, whereas navigating out and back resumes.
  route('review')
  click(page.get_by_role('button',name='Lật thẻ để kiểm tra'))
  snap('05-review-after')
- for _ in range(5):
+ for _ in range(page.evaluate('review.ids.length')):
   click(page.locator('[data-action="rate:7"]'))
   if page.locator('[data-action="flip"]').count():click(page.locator('[data-action="flip"]'))
  assert 'Lần ôn tiếp theo:' in page.locator('main').inner_text()
