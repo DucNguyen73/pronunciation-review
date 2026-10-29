@@ -1,5 +1,13 @@
 # Kiểm tra bản bàn giao
 
+## Chế độ tối — 2026-10-29
+
+- Local Chrome Dev qua Playwright: đổi sáng/tối, trạng thái `aria-pressed`, giữ cả hai lựa chọn sau tải lại và đổi giao diện khi localStorage bị chặn đều đạt.
+- 7 đường dẫn (home, lessons, lesson/l1, quiz/l1, review/l1, progress, settings) ở 1440, 390 và 320 px không tràn ngang trong chế độ tối. Đã sửa co giãn cột trang Tiến độ ở 320 px.
+- Đã xem ảnh trang chủ tối, bài học mobile sáng/tối và phản hồi câu trả lời đúng/sai ở chế độ tối. Ảnh local trong `output/playwright/` (không đưa vào Git).
+- 4 kiểm thử logic học hiện có, kiểm tra cú pháp app.js và `git diff --check` đều đạt. Không có lỗi JavaScript trong ca chặn localStorage; favicon.ico 404 của server local không ảnh hưởng ứng dụng.
+- Chưa triển khai thay đổi chế độ tối lên GitHub Pages; chưa kiểm tra thay đổi này trên Safari hoặc thiết bị thật.
+
 Ngày: 2026-10-22. Website local, không triển khai lên mạng.
 
 ## Đã kiểm tra

@@ -3,6 +3,9 @@
 const {lessons,groups,sourcePages}=window.COURSE;
 const S=window.Study, KEY='am-pronunciation-v1', allQuestions=S.questions(lessons);
 const $=s=>document.querySelector(s), main=$('#main');
+function updateThemeToggle(){const dark=document.documentElement.dataset.theme==='dark';$('#theme-toggle').setAttribute('aria-pressed',String(dark));$('#theme-toggle').textContent=dark?'Chế độ sáng':'Chế độ tối';}
+updateThemeToggle();
+$('#theme-toggle').addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=theme;updateThemeToggle();try{localStorage.setItem('am-theme',theme);}catch{toast('Giao diện đã đổi cho phiên này; trình duyệt không cho lưu lựa chọn.');}});
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const button=(label,action,cls='')=>`<button class="${cls}" data-action="${action}">${label}</button>`;
 const link=(label,to,cls='')=>`<a class="${cls}" href="#${to}">${label}</a>`;

@@ -17,6 +17,8 @@ Mở **http://localhost:8000** bằng Chrome, Edge, Firefox hoặc Safari. Giữ
 
 ## Cách học
 
+Nút **Chế độ tối / Chế độ sáng** ở thanh trên cùng đổi giao diện ngay và lưu lựa chọn trên trình duyệt. Lựa chọn này độc lập với tiến độ học và bản sao JSON; nếu trình duyệt chặn lưu trữ, giao diện chỉ được giữ trong phiên hiện tại.
+
 1. Chọn “Bắt đầu phiên học”: ưu tiên thẻ đến hạn, sau đó bài chưa hoàn thành tiếp theo.
 2. Đọc quy tắc, ghi chú và đọc thành tiếng ví dụ. Nhấn “Đánh dấu đã đọc” để mở thẻ của bài.
 3. Luyện bài và đạt ít nhất 80% để hoàn thành. Điểm tốt nhất được giữ lại.
