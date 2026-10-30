@@ -17,12 +17,14 @@ Mở **http://localhost:8000** bằng Chrome, Edge, Firefox hoặc Safari. Giữ
 
 ## Cách học
 
+Mỗi bài có bài giảng ngắn trong `lesson.guide`: giải thích đơn giản, ví dụ IPA/nghĩa, cách áp dụng và mẹo nhớ. “Hiểu thêm” và đáp án tự kiểm tra mở được bằng Enter/Space; không thay đổi điểm hoặc lịch ôn. Xem [bảng đối chiếu 29 bài](LESSON_GUIDES.md) và [kết quả kiểm chứng](VERIFICATION.md).
+
 Trong **Luyện tập**, bài đã chọn được nhớ ngay trên trình duyệt (cả khi quay lại hoặc tải lại trang). Luyện riêng một bài dùng toàn bộ câu hỏi của bài; mỗi câu có giải thích cho lựa chọn của bạn, đáp án đúng, các phương án còn lại và liên kết trang PDF. Phiên luyện đang dở chỉ giữ khi điều hướng trong cùng lượt mở, không khôi phục sau tải lại. Câu hỏi mới cũng thành thẻ ôn khi bài đã được đánh dấu đã đọc; mỗi phiên thẻ vẫn tối đa 20 câu.
 
 Nút **Chế độ tối / Chế độ sáng** ở thanh trên cùng đổi giao diện ngay và lưu lựa chọn trên trình duyệt. Lựa chọn này độc lập với tiến độ học và bản sao JSON; nếu trình duyệt chặn lưu trữ, giao diện chỉ được giữ trong phiên hiện tại.
 
 1. Chọn “Bắt đầu phiên học”: ưu tiên thẻ đến hạn, sau đó bài chưa hoàn thành tiếp theo.
-2. Đọc quy tắc, ghi chú và đọc thành tiếng ví dụ. Nhấn “Đánh dấu đã đọc” để mở thẻ của bài.
+2. Đọc mục tiêu và “Nhớ trước 3 ý”, học từng mục nhỏ rồi mở tự kiểm tra không tính điểm. Nghe và đọc lại ví dụ. Nhấn “Đánh dấu đã đọc” để mở thẻ của bài.
 3. Luyện bài và đạt ít nhất 80% để hoàn thành. Điểm tốt nhất được giữ lại.
 4. Ôn thẻ: tự nhớ rồi lật đáp án. Chọn mức nhớ để hẹn lại sau 1, 3 hoặc 7 ngày (mỗi ngày tương ứng 24 giờ). Mỗi phiên tối đa 20 thẻ.
 5. Luyện lại câu sai cho đến khi trả lời đúng. Bài tổng hợp không thay điểm kiểm tra riêng của bài.
@@ -41,7 +43,7 @@ Không có tài khoản, máy chủ dữ liệu, analytics, CDN hoặc API trả
 - `content.js`: bài học, ví dụ, câu hỏi và bản chữ các trang nguồn.
 - `core.js`: tính điểm, lọc thẻ đến hạn, đặt lịch và kiểm tra bản sao.
 - `assets/source.pdf`: tài liệu gốc.
-- `tests/core.test.cjs`: kiểm tra dữ liệu và logic học bằng `node --test tests/core.test.cjs`.
+- `tests/core.test.cjs`: kiểm tra dữ liệu và logic học bằng `node --test tests/core.test.cjs tests/guides.test.cjs`.
 - `tests/browser.py`: kiểm tra tích hợp bằng Python Playwright và Chromium có sẵn; chạy khi máy chủ ở cổng 8000 đang hoạt động. Đây là công cụ kiểm tra, không phải phụ thuộc chạy website.
 
 Website có thể chạy local hoặc trên GitHub Pages. Tiến độ vẫn chỉ lưu trong trình duyệt, không đồng bộ lên GitHub. Tiến độ tại localhost không tự chuyển sang địa chỉ website; hãy xuất JSON ở địa chỉ cũ rồi nhập ở địa chỉ mới.

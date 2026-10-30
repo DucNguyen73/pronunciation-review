@@ -1,0 +1,312 @@
+{
+  "source": "b5e4e85eef33695b0879cf75a2c276f6d543b86a55c4d6a594f8500118d6b5b1",
+  "coverage": "cd4f346fdc5871017d0c8fe1b525bc16a831b39966350805a484f831d36c3aee",
+  "lessons": [
+    {
+      "id": "l1",
+      "rules": [
+        "ch có thể là /tʃ/, /k/ hoặc /ʃ/.",
+        "j và nhiều từ có ge, gi, gy biểu thị /dʒ/.",
+        "du, tu có thể biến đổi tùy từ và giọng; su có thể là /ʒ/, /ʃ/ hoặc /sw/."
+      ],
+      "note": "Bổ sung: duty, Tuesday, tube có biến thể Anh–Mỹ. Không áp dụng một cách đọc cho mọi từ có cùng nhóm chữ.",
+      "hash": "39e9d9149a3eacc72d0c8eb343ff1b481695ea120a0f727ba43f7fd7f928e127"
+    },
+    {
+      "id": "l2",
+      "rules": [
+        "sh, nhiều nhóm ti và ci biểu thị /ʃ/.",
+        "-sion có thể đọc /ʃən/ hoặc /ʒən/.",
+        "th có thể là /θ/ vô thanh hoặc /ð/ hữu thanh; -se có thể là /s/ hoặc /z/.",
+        "gh trong rough, laugh, enough đọc /f/."
+      ],
+      "note": "Bổ sung: dựa vào âm thanh và từ cụ thể. Chữ e sau th không phải điều kiện đủ để quyết định /ð/.",
+      "hash": "9c2de8d122b853743f0c086e9c98df7d2fc3ae81a874c4fae7819d53a8bc6938"
+    },
+    {
+      "id": "l3",
+      "rules": [
+        "c trước i, y thường đọc /s/; một số nhóm ci đọc /ʃ/.",
+        "ng thường có /ŋ/; nc và nk trong các ví dụ đọc /ŋk/.",
+        "y đầu từ thường là /j/, qu thường là /kw/.",
+        "gu có thể là /gw/ hoặc /g/; -gue trong fatigue, colleague đọc /g/."
+      ],
+      "note": "Bổ sung: finger và angry có /ŋg/, không chỉ /ŋ/. Các nhóm chữ trong PDF là gợi ý nhận diện, không phải quy tắc không ngoại lệ.",
+      "hash": "fb9fee31b9622c950be882c969d7c22b593da67ccd585fe831138ee59d10c241"
+    },
+    {
+      "id": "l4",
+      "rules": [
+        "ai và a-e thường có /eɪ/; air, are thường có /er/ trong giọng Mỹ.",
+        "o-e thường là /oʊ/ nhưng move, prove, lose có /uː/.",
+        "i-e có thể là /aɪ/, /ɪ/ hoặc /iː/ tùy từ.",
+        "au, aw, ought thay đổi theo giọng; không có một âm chung cho mọi người nói."
+      ],
+      "note": "Bổ sung: PDF ghi /ɑː/ cho nhiều từ có aw/au; một số giọng Mỹ dùng /ɔ/, giọng Anh thường có /ɔː/. aunt cũng có biến thể /æ/ và /ɑː/.",
+      "hash": "fd6e75f65f85bb57522d02a143a4e584e9271866e65bc4666b2bc3d5219d25df"
+    },
+    {
+      "id": "l5",
+      "rules": [
+        "ee thường đọc /iː/.",
+        "ea có /iː/ trong meat, /e/ trong pleasure và /eɪ/ trong break.",
+        "ear có /ɪr/ trong fear, /er/ trong bear, /ɜːr/ trong learn.",
+        "ew có /uː/ hoặc /juː/; new, dew có khác biệt giọng."
+      ],
+      "note": "Bổ sung: tear có hai cách đọc tùy nghĩa: nước mắt /tɪr/ và xé /ter/ trong giọng Mỹ. Không dùng từ này làm câu hỏi thiếu ngữ cảnh.",
+      "hash": "cb8b8d9f8fa01e9bdccfb03f81a17bf0eb00162b337a6bb0a738bae78efa21c6"
+    },
+    {
+      "id": "l6",
+      "rules": [
+        "u có thể biểu thị /uː/, /ʊ/, /juː/, /ʌ/ hoặc /ə/.",
+        "e, o, a, i có nhiều cách đọc; học theo từ cụ thể.",
+        "Âm schwa /ə/ thường xuất hiện trong âm tiết không được nhấn.",
+        "Phân biệt /ɪ/ trong signal với /aɪ/ trong private."
+      ],
+      "note": "Bổ sung: không phải mọi âm tiết không nhấn đều dùng /ə/. Chữ o trong allow/account/mountain thuộc nhóm ou, không phải o đứng riêng.",
+      "hash": "d1ebcee042dc0d1fec253f31d7c8c5583fd5c5c6a579ccf2e12da7c6bd80dc8b"
+    },
+    {
+      "id": "l7",
+      "rules": [
+        "ur và ir thường có /ɜːr/ trong nurse, first.",
+        "er có /er/, /ɪr/, /ɜːr/ hoặc /ər/ theo từ.",
+        "or có /ɔːr/, /ɜːr/ hoặc /ər/.",
+        "ar có /ɑːr/, /er/ hoặc /ər/; ir trong fire có /aɪər/."
+      ],
+      "note": "Bổ sung: ký hiệu theo tài liệu hướng giọng Mỹ có phát âm r. Giọng không phát âm r và cách ghi /ɝ/, /ɚ/ trong từ điển có thể khác.",
+      "hash": "151e7d6253547b649a52c17a2f86c3a42a44cb3462999c7cf61d552190b5a3b2"
+    },
+    {
+      "id": "l8",
+      "rules": [
+        "ex- được nhấn thường có /eks/ như expert.",
+        "ex- không nhấn trước phụ âm thường có /ɪks/ như expect.",
+        "Trước nguyên âm, ex- thường có /ɪɡz/ như exam; h có thể câm như exhibit.",
+        "x cuối từ thường đọc /ks/."
+      ],
+      "note": "Bổ sung: đây là xu hướng. Không áp dụng cách đọc /ɪɡz/ cho mọi từ có ex + nguyên âm, ví dụ exercise.",
+      "hash": "56b213f1284c156e198c163bc92e37bb39c5f772a3ca59a35a2236c304cf779a"
+    },
+    {
+      "id": "l9",
+      "rules": [
+        "Danh từ, tính từ hai âm tiết thường nhấn âm một; động từ hai âm tiết thường nhấn âm hai.",
+        "Các đuôi -tion, -sion, -ic, -ity thường giúp xác định trọng âm ở trước đuôi.",
+        "Từ dài có thể có trọng âm chính ˈ và trọng âm phụ ˌ.",
+        "Các âm tiết không nhấn thường có nguyên âm yếu."
+      ],
+      "note": "Bổ sung: danh sách đuôi trong PDF có ngoại lệ; -al, -ance, -ence không luôn quyết định trọng âm. Giới từ hai âm tiết cũng không có một quy tắc chung tuyệt đối.",
+      "hash": "33640ce931d33b9f3918863291d33b3701b7d961a19e53ff21d3eed4e5f44e4d"
+    },
+    {
+      "id": "l10",
+      "rules": [
+        "Các nhóm -ate, -gy, -cy, -ize/-ise, -ary, -ous thường có xu hướng trọng âm cách đuôi một âm tiết.",
+        "Đuôi -ate của động từ thường đọc /eɪt/.",
+        "Đuôi -ate của danh từ, tính từ thường yếu hơn, có /ət/ hoặc /ɪt/."
+      ],
+      "note": "Bổ sung: phải xét từng từ và từ loại. Đây không phải quy tắc tuyệt đối; không suy ra trọng âm chỉ từ vài chữ cuối.",
+      "hash": "645fa60d2c68db6a41291e9898be0d3111bc7a903114d613bb3bf4ddf355a9f1"
+    },
+    {
+      "id": "l11",
+      "rules": [
+        "con- có /kɑːn/ khi được nhấn trong contact, và /kən/ trong consider.",
+        "com- có thể giữ nguyên âm đầy đủ trong competition và có /kəm/ trong compete.",
+        "pro- có /prɑː/ trong product, /proʊ/ trong program và /prə/ trong produce (v)."
+      ],
+      "note": "Bổ sung: competition có trọng âm phụ ở đầu. Không phải mọi o không nhấn đều trở thành schwa.",
+      "hash": "b7cfcc68e6103499a6db142dc20a10f1e1b73ee6ca55eaaafd727f3f1dcb1630"
+    },
+    {
+      "id": "l12",
+      "rules": [
+        "-self, -ee, -eer, -ese, -ique, -esque thường nhận trọng âm.",
+        "ain có /eɪn/ khi được nhấn trong maintain nhưng có thể yếu thành /ən/ trong certain.",
+        "Các đuôi không nhấn như -er, -or, -ar thường có /ər/."
+      ],
+      "note": "Bổ sung: không phải mọi từ kết thúc bằng cùng chữ đều tuân thủ, ví dụ coffee không nhấn ở -ee.",
+      "hash": "75a824660247280e38a7ee3a1ded9323b689d17f4fb4354e446c98fbe488dbfd"
+    },
+    {
+      "id": "l13",
+      "rules": [
+        "Các đuôi -able, -age, -ist, -ish, -hood, -ment, -ship, -en thường giữ vị trí trọng âm gốc.",
+        "Các đuôi -ful, -ing, -ly, -ness, -less, -ism thường cũng không đổi trọng âm gốc.",
+        "Luôn đối chiếu từ hoàn chỉnh với từ gốc."
+      ],
+      "note": "Bổ sung: danh sách là xu hướng. Không nên suy rộng -tive cho mọi từ; cách đọc và trọng âm còn phụ thuộc cấu tạo từ.",
+      "hash": "f8a41ad5d8219b4e591aa5695eaf6a144170bb90a25d60325a2ac6db9f5ce4ee"
+    },
+    {
+      "id": "l14",
+      "rules": [
+        "Một số cặp có danh từ nhấn âm một, động từ nhấn âm hai: permit, object, progress.",
+        "perfect (adj) thường nhấn đầu; perfect (v) nhấn sau.",
+        "Các từ như contact, control, report có thể giữ trọng âm giữa danh từ và động từ.",
+        "Xét nghĩa và từ loại trong câu trước khi chọn trọng âm."
+      ],
+      "note": "Bổ sung: protest, retail, transport có khác biệt theo giọng và cách dùng. Câu hỏi ở đây dùng các cặp rõ nghĩa để tránh mơ hồ.",
+      "hash": "251190420bedf39224b5b7a964b557942e2451a04a15356d329a3909768ae5e5"
+    },
+    {
+      "id": "l15",
+      "rules": [
+        "-ed đọc /ɪd/ sau /t/ hoặc /d/.",
+        "-ed đọc /t/ sau các phụ âm vô thanh /k, f, p, s, tʃ, ʃ/.",
+        "-ed đọc /d/ sau nguyên âm và các phụ âm hữu thanh còn lại."
+      ],
+      "note": "Đính chính PDF: hữu thanh là voiced, không phải unvoiced. Bổ sung: một số tính từ -ed có cách đọc riêng; các câu luyện dùng động từ quá khứ thông thường.",
+      "hash": "6e11ed3e65d90e1803f0c06442189a05a69d95b7d2586594934bf6b361aa2939"
+    },
+    {
+      "id": "l16",
+      "rules": [
+        "Đọc /ɪz/ sau /s, z, ʃ, ʒ, tʃ, dʒ/.",
+        "Đọc /s/ sau /θ, p, t, k, f/.",
+        "Đọc /z/ sau nguyên âm và phụ âm hữu thanh còn lại.",
+        "Chú ý từ gốc tận cùng -se có thể mang âm /s/ hoặc /z/."
+      ],
+      "note": "Bổ sung: biến thể nguyên âm yếu /əz/ cũng có thể xuất hiện thay /ɪz/. Cần nghe âm cuối thay vì chỉ nhìn chữ.",
+      "hash": "f26036accd868acb940038ce94294505ddb2cf2b94d91a8049ae24ece25817e3"
+    },
+    {
+      "id": "l17",
+      "rules": [
+        "/t/ thường thành /ɾ/ giữa các âm hữu thanh khi âm tiết sau không nhấn, như city, later.",
+        "Hiện tượng có thể gặp sau r như party, dirty và giữa các từ như a lot of.",
+        "Khi mở đầu âm tiết được nhấn như attack, /t/ thường được phát rõ."
+      ],
+      "note": "Bổ sung: /ɾ/ không hoàn toàn giống /d/. Mức độ flap tùy giọng, nhịp và từ; giọng tổng hợp có thể không biểu hiện rõ.",
+      "hash": "61ef2a6cc82cbff22de8745a9d15da618ad0eefa170b935c7fcfd3cc8c3cabd0"
+    },
+    {
+      "id": "l18",
+      "rules": [
+        "Các từ twenty, winter, center có thể được đọc với /t/ yếu hoặc lược đi.",
+        "Hiện tượng còn xuất hiện trong cụm want it và một số câu nói nhanh.",
+        "Luyện chậm, giữ nghĩa rõ rồi tăng tốc; không cần cố bỏ âm."
+      ],
+      "note": "Bổ sung: hiện tượng tùy người nói và ngữ cảnh, không bắt buộc. counted, wanted còn có thể gặp những biến thể khác.",
+      "hash": "8e4ffc2faec4f3f5f4dccf26d41938f95b4616197f905a9992d5d820351ea2aa"
+    },
+    {
+      "id": "l19",
+      "rules": [
+        "Trong nhiều giọng, t trước n tạo âm tiết có thể không bật rõ hoặc được thanh hầu hóa.",
+        "Các ví dụ trong tài liệu: written, kitten, button, mountain.",
+        "Một số cụm phủ định như didn’t, couldn’t có dạng yếu trong lời nói tự nhiên."
+      ],
+      "note": "Bổ sung: các từ trong danh sách không có cùng cơ chế ở mọi giọng; garden và hidden có /d/. Không biến toàn bộ danh sách thành một quy tắc bỏ t/d.",
+      "hash": "54896b033525f3fe1977f27805d82efb2bab0cfa593a498c4e7a12320765a62e"
+    },
+    {
+      "id": "l20",
+      "rules": [
+        "Sáu phụ âm tắc là /p, b, t, d, k, g/.",
+        "Trước một phụ âm khác, âm tắc cuối có thể không bật rõ: put back, big dog.",
+        "/t, d/ ở cụm phụ âm cuối có thể bị lược trong nói nhanh: next week, left me."
+      ],
+      "note": "Đính chính PDF: không phải cả sáu âm đều là phụ âm bật hơi. Không bật âm và bỏ âm là hai hiện tượng khác nhau; không bắt buộc bỏ t/d ở mọi cụm.",
+      "hash": "a51b5a80075133f72f387fc1d417d1715ecf36c1bc698913bcd5da1897699f53"
+    },
+    {
+      "id": "l21",
+      "rules": [
+        "/t/ + /j/ có thể thành /tʃ/: want you; /d/ + /j/ có thể thành /dʒ/: did you.",
+        " /s/ + /j/ có thể thành /ʃ/: miss you; /z/ + /j/ có thể thành /ʒ/: how’s your.",
+        "Tài liệu còn nêu những dạng giản lược ở this shop, both sides, is this."
+      ],
+      "note": "Bổ sung: các phép cộng âm là mô hình luyện nói giản lược. Đặc biệt lược th hoặc s/z không bắt buộc và có thể làm lời nói kém rõ nếu lạm dụng.",
+      "hash": "61c1fe6bcd887d4eef833b324ff413c1859997ac03fa398b71a8da7125f963b2"
+    },
+    {
+      "id": "l22",
+      "rules": [
+        "Các chuỗi đọc từng chữ như USA, BBC, TV thường có trọng âm nổi bật ở chữ cuối.",
+        "Dr., Mr., Ms., Mrs. là các dạng viết tắt có cách đọc từ đầy đủ tương ứng.",
+        "St. phụ thuộc ngữ cảnh; PDF đưa ví dụ street.",
+        "etc. là et cetera; e.g. có thể đọc e.g. hoặc for example."
+      ],
+      "note": "Bổ sung: tiêu đề acronym trong PDF bao gồm cả initialisms. Acronym đọc như một từ, ví dụ NASA, không tuân thủ quy tắc nhấn chữ cuối.",
+      "hash": "e3c7af2cc6042f54de493ddbd28df061ec18e221164244912b420b29d909ecec"
+    },
+    {
+      "id": "l23",
+      "rules": [
+        "Các từ different, several, camera, interest có thể có dạng rút gọn âm tiết.",
+        "Các nhóm khác gồm comfortable, history, library, chocolate, family.",
+        "Luyện cả dạng rõ và dạng tự nhiên; không chèn thêm nguyên âm mạnh."
+      ],
+      "note": "Bổ sung: số âm tiết và mức lược âm thay đổi theo giọng, tốc độ và từ. Không phải mọi chữ ở giữa đều là schwa hoặc đều có thể bỏ.",
+      "hash": "cacdff9d46a38bb106143dd307e615471221391a0e18374031c7a55504d57d8e"
+    },
+    {
+      "id": "l24",
+      "rules": [
+        "Danh từ ghép thường nhấn thành tố đầu: living room, playground, post office.",
+        "Tính từ ghép và động từ ghép thường có thành tố sau nổi bật, nhưng có ngoại lệ.",
+        "So sánh greenhouse (nhà kính) với a green house (nhà màu xanh)."
+      ],
+      "note": "Bổ sung: trọng âm từ ghép chịu ảnh hưởng nghĩa và ngữ cảnh; không phải mọi tính từ ghép đều nhấn từ thứ hai. Số trang PDF thực tế lệch một trang từ phần này vì hai trang đều in số 25.",
+      "hash": "74e21e909172cf7fbf8753e236addff606376aa63d65a07c5d1d0fc8bdcb1cbc"
+    },
+    {
+      "id": "l25",
+      "rules": [
+        "will → ’ll: I’ll, you’ll, we’ll.",
+        "am/is/are → ’m/’s/’re: I’m, he’s, they’re.",
+        "have/has → ’ve/’s: I’ve, she’s.",
+        "would/had → ’d: I’d, they’d; cần ngữ cảnh để phân biệt."
+      ],
+      "note": "Bổ sung: ’s có thể là is hoặc has; ’d có thể là would hoặc had. Không suy ra dạng đầy đủ chỉ từ dấu nháy.",
+      "hash": "c484a4835c666b88c8d30499acfa51401d1925e38463db8cf9bc63b546c736b9"
+    },
+    {
+      "id": "l26",
+      "rules": [
+        "for, from, to, at, as, of có dạng yếu thường chứa /ə/.",
+        "going to → gonna, want to → wanna, have to → hafta là cách ghi gần âm nói thân mật.",
+        "could have → coulda, let me → lemme, give me → gimme trong lời nói thân mật.",
+        "h ở he, him, her, his có thể yếu hoặc mất khi không nhấn; them có dạng /əm/."
+      ],
+      "note": "Bổ sung: các dạng ghi âm nói không thay chính tả chuẩn. going to chỉ rút thành gonna trong cách dùng thích hợp; giảm âm phụ thuộc nhấn mạnh và ngữ cảnh.",
+      "hash": "9f9fccd6afd1cf064c6e78b23b8317e3bfeb4f4121652def18e80d22a87eeb0e"
+    },
+    {
+      "id": "l27",
+      "rules": [
+        "Hai âm giống nhau cạnh nhau thường được nối liền: book club, that time.",
+        "Các âm tương đồng có thể chia sẻ vị trí cấu âm; tài liệu đưa ví dụ I’ve finished, with the.",
+        "Phụ âm cuối nối sang nguyên âm đầu: turn around, like a.",
+        "Sau /uː/ hoặc /oʊ/, có thể có âm chuyển /w/ nhẹ trước nguyên âm: do it, so old."
+      ],
+      "note": "Bổ sung: không bắt buộc bỏ hoàn toàn một trong hai âm tương đồng. Phân biệt nối liền với lược âm; ưu tiên lời nói rõ.",
+      "hash": "7e739ba6b4e069b4e3d06da4a653d84dd9235272eceeeff96cede57f58eb4545"
+    },
+    {
+      "id": "l28",
+      "rules": [
+        "Từ nội dung thường được nhấn: danh từ, động từ chính, tính từ, trạng từ và từ để hỏi.",
+        "Từ chức năng thường yếu: mạo từ, giới từ, trợ động từ và đại từ.",
+        "Đại từ sở hữu đứng độc lập như mine, yours có thể nhận nhấn.",
+        "Nhịp câu thay đổi khi cần nhấn mạnh hoặc sửa thông tin."
+      ],
+      "note": "Bổ sung: phần này tương ứng PART 19 trong PDF. Không phải mọi từ nội dung đều được nhấn, và từ chức năng vẫn có thể được nhấn để đối lập.",
+      "hash": "483779306b7880515752eac27893535d93bb47e68fe090a750cc06040cdba770"
+    },
+    {
+      "id": "l29",
+      "rules": [
+        "Câu trần thuật và câu hỏi wh thường xuống giọng ở cuối.",
+        "Câu hỏi yes/no và yêu cầu lịch sự thường có thể lên giọng.",
+        "Liệt kê thường lên ở các mục chưa kết thúc và xuống ở mục cuối.",
+        "Cụm chưa kết thúc có thể giữ hoặc nâng giọng để báo còn ý tiếp."
+      ],
+      "note": "Bổ sung: phần này tương ứng PART 20 trong PDF. Đây là mẫu trung tính; cảm xúc, phép lịch sự, ý xác nhận và ngữ cảnh có thể làm đổi đường giọng. Giọng tổng hợp không thay thế mẫu ngữ điệu do giáo viên đọc.",
+      "hash": "38a7d4d30074285df91e2afd473329aec4c56ed4e67492ae56ce88a468c24a51"
+    }
+  ]
+}

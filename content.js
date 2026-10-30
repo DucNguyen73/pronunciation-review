@@ -15,12 +15,6 @@ window.COURSE = {
         1
       ],
       "summary": "Một cách viết có thể biểu thị nhiều âm. Học theo từ và nghe cả từ thay vì đoán chỉ từ mặt chữ.",
-      "rules": [
-        "ch có thể là /tʃ/, /k/ hoặc /ʃ/.",
-        "j và nhiều từ có ge, gi, gy biểu thị /dʒ/.",
-        "du, tu có thể biến đổi tùy từ và giọng; su có thể là /ʒ/, /ʃ/ hoặc /sw/."
-      ],
-      "note": "Bổ sung: duty, Tuesday, tube có biến thể Anh–Mỹ. Không áp dụng một cách đọc cho mọi từ có cùng nhóm chữ.",
       "examples": [
         {
           "text": "church",
@@ -1724,7 +1718,107 @@ window.COURSE = {
           ],
           "topic": "s đầu từ /s/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra ch có ba cách đọc và phân biệt âm /dʒ/ với /ʒ/.",
+        "essentials": [
+          "Ch có ba nhóm: /tʃ/, /k/, /ʃ/.",
+          "/dʒ/ có rung ở cổ; khác ký hiệu /j/.",
+          "Du, tu, su phải xét từng từ và giọng."
+        ],
+        "terms": [
+          {
+            "term": "Hữu thanh/vô thanh",
+            "definition": "Hữu thanh: dây thanh rung. Đặt nhẹ tay lên cổ, so /z/ có rung với /s/ không rung. Không ép cổ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Ch: học ba nhóm từ",
+            "explanation": "Đừng đoán ch luôn giống nhau. /tʃ/ bắt đầu bằng một lần chặn hơi rồi xì ra; /ʃ/ chỉ xì hơi; /k/ chặn hơi ở phía sau miệng.",
+            "examples": [
+              {
+                "text": "church",
+                "ipa": "/tʃɜːrtʃ/",
+                "meaning": "nhà thờ",
+                "speak": "church",
+                "focus": "Nhớ ba từ neo: church – character – machine."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc church, rồi so với character /ˈkærəktər/ và machine /məˈʃiːn/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhớ ba từ neo: church – character – machine.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "J và /dʒ/: chặn rồi xì, có rung",
+            "explanation": "/dʒ/ có tiếng rung ở cổ. Đặt nhẹ tay lên cổ khi đọc gym. Chữ j trong tiếng Anh thường chỉ âm này; ký hiệu IPA /j/ lại là âm đầu của yes.",
+            "examples": [
+              {
+                "text": "gym",
+                "ipa": "/dʒɪm/",
+                "meaning": "phòng tập",
+                "speak": "gym",
+                "focus": "Chữ j và ký hiệu /j/ là hai thứ khác nhau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc gym chậm, so với âm không rung /tʃ/ trong chin /tʃɪn/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Chữ j và ký hiệu /j/ là hai thứ khác nhau.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Du, tu, su: cần nhìn cả từ",
+            "explanation": "Trong giọng Mỹ, duty thường bắt đầu /duː/, còn một số giọng Anh có /djuː/ hoặc /dʒuː/. Su trong usual có /ʒ/, sugar có /ʃ/, nhưng suit thường /suːt/.",
+            "examples": [
+              {
+                "text": "usual",
+                "ipa": "/ˈjuːʒuəl/",
+                "meaning": "thông thường",
+                "speak": "usual",
+                "focus": "Đừng áp cùng một âm cho mọi du, tu, su."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Nghe usual, sugar /ˈʃʊɡər/ rồi suit /suːt/; nhận ra âm đang học trước khi đọc lại cả từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đừng áp cùng một âm cho mọi du, tu, su.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: duty, Tuesday, tube có biến thể Anh–Mỹ. Không áp dụng một cách đọc cho mọi từ có cùng nhóm chữ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Machine có ch giống church không?",
+          "answer": "Không.",
+          "explanation": "Machine có /ʃ/, church có /tʃ/. /tʃ/ có bước chặn hơi trước khi xì; /ʃ/ chỉ xì."
+        }
+      }
     },
     {
       "id": "l2",
@@ -1734,13 +1828,6 @@ window.COURSE = {
         2
       ],
       "summary": "Phân biệt /ʃ/, /ʒ/, /θ/, /ð/ và những cách đọc của -sion, -se.",
-      "rules": [
-        "sh, nhiều nhóm ti và ci biểu thị /ʃ/.",
-        "-sion có thể đọc /ʃən/ hoặc /ʒən/.",
-        "th có thể là /θ/ vô thanh hoặc /ð/ hữu thanh; -se có thể là /s/ hoặc /z/.",
-        "gh trong rough, laugh, enough đọc /f/."
-      ],
-      "note": "Bổ sung: dựa vào âm thanh và từ cụ thể. Chữ e sau th không phải điều kiện đủ để quyết định /ð/.",
       "examples": [
         {
           "text": "vision",
@@ -3119,7 +3206,130 @@ window.COURSE = {
           ],
           "topic": "c trong ce /s/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Đọc được âm xì và hai âm th bằng cách kiểm tra vị trí lưỡi, độ rung.",
+        "essentials": [
+          "/ʃ/ và /ʒ/ khác nhau ở độ rung.",
+          "Th cần đầu lưỡi ở răng, không đọc thành t hoặc d.",
+          "Nhóm chữ chỉ gợi ý; cần học từ cụ thể."
+        ],
+        "terms": [
+          {
+            "term": "Hữu thanh/vô thanh",
+            "definition": "Âm hữu thanh làm dây thanh rung; âm vô thanh không có rung dây thanh. Đặt nhẹ tay lên cổ khi so /z/ và /s/."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Âm /ʃ/: hơi xì liên tục",
+            "explanation": "Đưa môi hơi tròn, để hơi xì qua khe hẹp. Không thêm một âm t ở đầu. Sh và nhiều ti/ci trong các từ quen thuộc biểu thị âm này.",
+            "examples": [
+              {
+                "text": "ship",
+                "ipa": "/ʃɪp/",
+                "meaning": "con tàu",
+                "speak": "ship",
+                "focus": "Xì liên tục là /ʃ/; chặn rồi xì là /tʃ/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So ship với chip /tʃɪp/: chip có bước chặn hơi trước.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Xì liên tục là /ʃ/; chặn rồi xì là /tʃ/.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Sion: nghe xem cổ có rung không",
+            "explanation": "Đuôi session có /ʃən/ không rung; vision có /ʒən/ có rung. Giữ luồng hơi tương tự, đặt tay lên cổ để so độ rung.",
+            "examples": [
+              {
+                "text": "vision",
+                "ipa": "/ˈvɪʒən/",
+                "meaning": "thị lực; tầm nhìn",
+                "speak": "vision",
+                "focus": "Cùng chữ sion, có thể khác độ rung."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc vision và session /ˈseʃən/ chậm, rồi đọc lại cả từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cùng chữ sion, có thể khác độ rung.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Th và se: âm thanh quyết định",
+            "explanation": "Với th, để đầu lưỡi nhẹ giữa hai hàm răng, thổi hơi: /θ/ không rung, /ð/ có rung. Se trong base /beɪs/ và raise /reɪz/ cũng khác độ rung.",
+            "examples": [
+              {
+                "text": "mother",
+                "ipa": "/ˈmʌðər/",
+                "meaning": "mẹ",
+                "speak": "mother",
+                "focus": "Th: cùng vị trí lưỡi, khác độ rung."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So mother với month /mʌnθ/; chạm cổ để cảm nhận /ð/. Không cắn mạnh lưỡi.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Th: cùng vị trí lưỡi, khác độ rung.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Gh đôi khi đọc /f/",
+            "explanation": "Ở enough, rough, laugh, gh là /f/: răng trên chạm nhẹ môi dưới, hơi đi ra liên tục. Tuy nhiên gh trong night lại không có âm riêng.",
+            "examples": [
+              {
+                "text": "enough",
+                "ipa": "/ɪˈnʌf/",
+                "meaning": "đủ",
+                "speak": "enough",
+                "focus": "Nhớ nhóm enough – rough – laugh, không suy rộng mọi gh."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc đủ từ enough, giữ hơi /f/ ở cuối và không thêm nguyên âm sau nó.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhớ nhóm enough – rough – laugh, không suy rộng mọi gh.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: dựa vào âm thanh và từ cụ thể. Chữ e sau th không phải điều kiện đủ để quyết định /ð/."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Mother có th vô thanh như month không?",
+          "answer": "Không.",
+          "explanation": "Mother dùng /ð/ có rung; month dùng /θ/ không rung."
+        }
+      }
     },
     {
       "id": "l3",
@@ -3129,13 +3339,6 @@ window.COURSE = {
         3
       ],
       "summary": "Nhận diện các cụm chữ thường gặp và luyện phân biệt /ŋ/ với /ŋk/.",
-      "rules": [
-        "c trước i, y thường đọc /s/; một số nhóm ci đọc /ʃ/.",
-        "ng thường có /ŋ/; nc và nk trong các ví dụ đọc /ŋk/.",
-        "y đầu từ thường là /j/, qu thường là /kw/.",
-        "gu có thể là /gw/ hoặc /g/; -gue trong fatigue, colleague đọc /g/."
-      ],
-      "note": "Bổ sung: finger và angry có /ŋg/, không chỉ /ŋ/. Các nhóm chữ trong PDF là gợi ý nhận diện, không phải quy tắc không ngoại lệ.",
       "examples": [
         {
           "text": "quick",
@@ -4664,7 +4867,125 @@ window.COURSE = {
           ],
           "topic": "g trong gu hoặc gue cuối /ɡ/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra âm đầu/cuối của c, ng, qu, gu mà không thêm âm thừa.",
+        "essentials": [
+          "Ng có thể đi với /g/ hoặc /k/.",
+          "/j/ là âm đầu year; qu thường /kw/.",
+          "Gu có lúc /gw/, có lúc chỉ /g/."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "C trước i/y: gợi ý, không bảo đảm",
+            "explanation": "City và cycle bắt đầu bằng /s/, còn special có /ʃ/. Trong cicada, chữ c đầu là /s/ nhưng chữ c thứ hai là /k/.",
+            "examples": [
+              {
+                "text": "city",
+                "ipa": "/ˈsɪti/",
+                "meaning": "thành phố",
+                "speak": "city",
+                "focus": "Nhìn vị trí c trong cả từ."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc city, rồi special /ˈspeʃəl/; chỉ vào vị trí chữ đang tạo âm.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhìn vị trí c trong cả từ.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ng, nk: có hay không có /g/?",
+            "explanation": "/ŋ/ là âm mũi ở phía sau miệng. Sing kết thúc /ŋ/; bank có thêm /k/; finger có thêm /g/. Không mặc định ng chỉ là một âm.",
+            "examples": [
+              {
+                "text": "finger",
+                "ipa": "/ˈfɪŋɡər/",
+                "meaning": "ngón tay",
+                "speak": "finger",
+                "focus": "Sing: /ŋ/; bank: /ŋk/; finger: /ŋg/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So sing /sɪŋ/, bank /bæŋk/, finger; đừng thêm nguyên âm cuối.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Sing: /ŋ/; bank: /ŋk/; finger: /ŋg/.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Y và qu ở đầu từ",
+            "explanation": "Y đầu yes/year thường là phụ âm /j/. Qu trong quick thường có /kw/: chặn /k/ rồi chuyển môi sang /w/, cùng một nhịp.",
+            "examples": [
+              {
+                "text": "quick",
+                "ipa": "/kwɪk/",
+                "meaning": "nhanh",
+                "speak": "quick",
+                "focus": "IPA /j/ là âm đầu yes, không phải chữ j."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc year /jɪr/ và quick; xác định /j/ hay /kw/ trước khi đọc cả từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "IPA /j/ là âm đầu yes, không phải chữ j.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Gu và gue: u có thể không thành /w/",
+            "explanation": "Language có /ɡw/; guess chỉ có /ɡ/. Trong colleague, phần gue cuối biểu thị /ɡ/; không đọc thêm u/e.",
+            "examples": [
+              {
+                "text": "guess",
+                "ipa": "/ɡes/",
+                "meaning": "đoán",
+                "speak": "guess",
+                "focus": "Gu không luôn có /w/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So guess với language /ˈlæŋɡwɪdʒ/ và colleague /ˈkɑːliːɡ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Gu không luôn có /w/.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: finger và angry có /ŋg/, không chỉ /ŋ/. Các nhóm chữ trong PDF là gợi ý nhận diện, không phải quy tắc không ngoại lệ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Finger có thể chỉ đọc ng như sing trong mẫu đang học không?",
+          "answer": "Không.",
+          "explanation": "Finger có cụm /ŋɡ/, còn sing kết thúc /ŋ/."
+        }
+      }
     },
     {
       "id": "l4",
@@ -4674,13 +4995,6 @@ window.COURSE = {
         4
       ],
       "summary": "Học ai, air, are và các mẫu a-e, o-e, u-e, i-e, e-e.",
-      "rules": [
-        "ai và a-e thường có /eɪ/; air, are thường có /er/ trong giọng Mỹ.",
-        "o-e thường là /oʊ/ nhưng move, prove, lose có /uː/.",
-        "i-e có thể là /aɪ/, /ɪ/ hoặc /iː/ tùy từ.",
-        "au, aw, ought thay đổi theo giọng; không có một âm chung cho mọi người nói."
-      ],
-      "note": "Bổ sung: PDF ghi /ɑː/ cho nhiều từ có aw/au; một số giọng Mỹ dùng /ɔ/, giọng Anh thường có /ɔː/. aunt cũng có biến thể /æ/ và /ɑː/.",
       "examples": [
         {
           "text": "cake",
@@ -6584,7 +6898,165 @@ window.COURSE = {
           ],
           "topic": "nguyên âm e được nhấn /iː/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Dùng nhóm chữ để đoán bước đầu, rồi nhận ra các ngoại lệ nguyên âm.",
+        "essentials": [
+          "E cuối không phải lúc nào cũng tạo cùng một nguyên âm.",
+          "Nhớ riêng move, give, machine.",
+          "Au/aw thay đổi theo giọng."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Ai, a-e và air",
+            "explanation": "Ai/a-e thường có nguyên âm đôi /eɪ/: miệng chuyển vị trí trong một âm tiết. Air/are ở care lại có âm trước r, không phải /eɪ/.",
+            "examples": [
+              {
+                "text": "cake",
+                "ipa": "/keɪk/",
+                "meaning": "bánh ngọt",
+                "speak": "cake",
+                "focus": "Cake và care khác nhóm âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So cake, daily /ˈdeɪli/ với care /ker/; giữ mỗi từ đúng số âm tiết.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cake và care khác nhóm âm.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "O-e: nhớ cả ngoại lệ",
+            "explanation": "Home thường /oʊ/, nhưng move/prove/lose có /uː/. E cuối thường không được đọc thành một âm tiết riêng.",
+            "examples": [
+              {
+                "text": "move",
+                "ipa": "/muːv/",
+                "meaning": "di chuyển",
+                "speak": "move",
+                "focus": "Home là mẫu thường; move là từ cần nhớ riêng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc home /hoʊm/ rồi move; so khẩu hình chuyển /oʊ/ với /uː/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Home là mẫu thường; move là từ cần nhớ riêng.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "I-e: không chỉ có /aɪ/",
+            "explanation": "Bike có /aɪ/, give có /ɪ/, machine có /iː/. Muốn đọc đúng cần nhớ từ, không chỉ đếm chữ e cuối.",
+            "examples": [
+              {
+                "text": "bike",
+                "ipa": "/baɪk/",
+                "meaning": "xe đạp",
+                "speak": "bike",
+                "focus": "Ba từ neo: bike – give – machine."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc bike, give /ɡɪv/, machine /məˈʃiːn/ rồi so âm mang trọng tâm.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Ba từ neo: bike – give – machine.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "U-e và e-e: hai nhóm còn lại",
+            "explanation": "Reduce thường có /uː/ trong giọng Mỹ; cute có /juː/. Complete có /iː/ ở âm tiết được nhấn. Đây là nhóm chữ để nhận diện trong từ, không có nghĩa đọc tên từng chữ u/e. Một số từ như reduce có biến thể giữ /j/ ở giọng khác.",
+            "examples": [
+              {
+                "text": "cute",
+                "ipa": "/kjuːt/",
+                "meaning": "dễ thương",
+                "focus": "Có /j/ chuyển vào /uː/.",
+                "speak": "cute"
+              },
+              {
+                "text": "reduce",
+                "ipa": "/rɪˈduːs/",
+                "meaning": "giảm",
+                "focus": "Mẫu Mỹ thường không có /j/ sau /d/.",
+                "speak": "reduce"
+              },
+              {
+                "text": "complete",
+                "ipa": "/kəmˈpliːt/",
+                "meaning": "hoàn thành; đầy đủ",
+                "focus": "E-e trong âm tiết được nhấn có /iː/.",
+                "speak": "complete"
+              }
+            ],
+            "steps": [
+              "Đọc chậm cute rồi reduce, nhận ra có hay không có /j/.",
+              "So complete với cute; xác định nguyên âm trong phần được nhấn.",
+              "Nghe rồi đọc lại cả từ, không thêm một âm tiết cho e cuối."
+            ],
+            "memory": "Cute có /juː/, reduce thường /uː/ trong mẫu Mỹ; complete có /iː/.",
+            "covers": [],
+            "caution": ""
+          },
+          {
+            "title": "Au, aw, ought: ghi rõ giọng",
+            "explanation": "Law có thể mang /ɔː/ hoặc /ɑː/ trong các giọng Mỹ khác nhau. Không có một cách đọc duy nhất cho cả nhóm ought: thought khác though.",
+            "examples": [
+              {
+                "text": "law",
+                "ipa": "/lɔː/ hoặc /lɑː/",
+                "meaning": "luật",
+                "speak": "law",
+                "focus": "Cùng nhóm chữ không đồng nghĩa cùng âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Chọn một giọng mẫu, nghe law rồi đọc lại. So thought /θɔːt/ với though /ðoʊ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cùng nhóm chữ không đồng nghĩa cùng âm.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: PDF ghi /ɑː/ cho nhiều từ có aw/au; một số giọng Mỹ dùng /ɔ/, giọng Anh thường có /ɔː/. aunt cũng có biến thể /æ/ và /ɑː/."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Move có o giống home không?",
+          "answer": "Không.",
+          "explanation": "Move có /uː/, home có /oʊ/. Không áp mẫu o-e một cách tuyệt đối."
+        }
+      }
     },
     {
       "id": "l5",
@@ -6594,13 +7066,6 @@ window.COURSE = {
         5
       ],
       "summary": "Cùng một nhóm chữ nhưng âm đọc thay đổi: hãy ghi nhớ theo từng họ ví dụ.",
-      "rules": [
-        "ee thường đọc /iː/.",
-        "ea có /iː/ trong meat, /e/ trong pleasure và /eɪ/ trong break.",
-        "ear có /ɪr/ trong fear, /er/ trong bear, /ɜːr/ trong learn.",
-        "ew có /uː/ hoặc /juː/; new, dew có khác biệt giọng."
-      ],
-      "note": "Bổ sung: tear có hai cách đọc tùy nghĩa: nước mắt /tɪr/ và xé /ter/ trong giọng Mỹ. Không dùng từ này làm câu hỏi thiếu ngữ cảnh.",
       "examples": [
         {
           "text": "meat",
@@ -7954,7 +8419,125 @@ window.COURSE = {
           ],
           "topic": "ew gồm âm lướt /juː/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Phân loại ee/ea/ear/ew bằng vài từ neo dễ nhớ.",
+        "essentials": [
+          "Ee thường /iː/.",
+          "Ea: meat, bread, break.",
+          "Ear và ew cần nhớ từ và giọng."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Ee: bắt đầu từ /iː/",
+            "explanation": "Trong see, ee có /iː/. Lưỡi ở cao phía trước, môi hơi giãn. Đừng chỉ dựa vào kéo dài: âm /ɪ/ của sit còn khác vị trí lưỡi.",
+            "examples": [
+              {
+                "text": "see",
+                "ipa": "/siː/",
+                "meaning": "nhìn thấy",
+                "speak": "see",
+                "focus": "See là từ neo cho /iː/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So see với sit /sɪt/, rồi đọc cả từ, không gồng môi.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "See là từ neo cho /iː/.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ea có ba nhóm thường gặp",
+            "explanation": "Meat có /iː/, bread có /e/, break có /eɪ/. /e/ ở đây cũng có thể được từ điển ghi /ɛ/; đó là khác quy ước ký hiệu.",
+            "examples": [
+              {
+                "text": "meat",
+                "ipa": "/miːt/",
+                "meaning": "thịt",
+                "speak": "meat",
+                "focus": "Meat – bread – break: ba ô nhớ cho ea."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc meat, bread /bred/, break /breɪk/ chậm rồi tự xếp nhóm.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Meat – bread – break: ba ô nhớ cho ea.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ear: fear, bear, learn",
+            "explanation": "Trong giọng Mỹ có r, fear dùng /ɪr/, bear dùng /er/, learn dùng /ɜːr/. Tear còn đổi âm theo nghĩa: nước mắt hoặc xé.",
+            "examples": [
+              {
+                "text": "bear",
+                "ipa": "/ber/",
+                "meaning": "con gấu; chịu đựng",
+                "speak": "bear",
+                "focus": "Nhớ cả nghĩa nếu chữ viết có nhiều cách đọc."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So fear /fɪr/, bear, learn /lɜːrn/. Đọc câu có nghĩa rõ khi gặp tear.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhớ cả nghĩa nếu chữ viết có nhiều cách đọc.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ew: nghe xem có /j/ không",
+            "explanation": "Few có /juː/; grew có /uː/. New thường /nuː/ trong giọng Mỹ, nhưng có thể /njuː/ ở giọng khác.",
+            "examples": [
+              {
+                "text": "few",
+                "ipa": "/fjuː/",
+                "meaning": "một vài",
+                "speak": "few",
+                "focus": "Ew không luôn bắt đầu /j/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So few và grew /ɡruː/; chú ý phần chuyển /j/ trước /uː/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Ew không luôn bắt đầu /j/.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: tear có hai cách đọc tùy nghĩa: nước mắt /tɪr/ và xé /ter/ trong giọng Mỹ. Không dùng từ này làm câu hỏi thiếu ngữ cảnh."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Break có ea giống meat không?",
+          "answer": "Không.",
+          "explanation": "Break có /eɪ/; meat có /iː/."
+        }
+      }
     },
     {
       "id": "l6",
@@ -7964,13 +8547,6 @@ window.COURSE = {
         6
       ],
       "summary": "Nhận diện sự liên hệ giữa trọng âm và chất lượng nguyên âm.",
-      "rules": [
-        "u có thể biểu thị /uː/, /ʊ/, /juː/, /ʌ/ hoặc /ə/.",
-        "e, o, a, i có nhiều cách đọc; học theo từ cụ thể.",
-        "Âm schwa /ə/ thường xuất hiện trong âm tiết không được nhấn.",
-        "Phân biệt /ɪ/ trong signal với /aɪ/ trong private."
-      ],
-      "note": "Bổ sung: không phải mọi âm tiết không nhấn đều dùng /ə/. Chữ o trong allow/account/mountain thuộc nhóm ou, không phải o đứng riêng.",
       "examples": [
         {
           "text": "put",
@@ -10199,7 +10775,130 @@ window.COURSE = {
           ],
           "topic": "nguyên âm yếu theo giọng"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra nguyên âm yếu /ə/ và tránh đọc theo từng chữ cái.",
+        "essentials": [
+          "U có nhiều nhóm âm, không đọc theo một mẫu.",
+          "Schwa /ə/ nhẹ, thường không mang trọng âm.",
+          "Không phải âm tiết yếu nào cũng là schwa."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm. Trọng âm là phần được làm nổi bật; dấu ˈ đứng ngay trước âm tiết mang trọng âm chính."
+          }
+        ],
+        "sections": [
+          {
+            "title": "U có nhiều âm",
+            "explanation": "So rule /ruːl/, put /pʊt/, cute /kjuːt/, cup /kʌp/. U trong âm tiết yếu của album có thể là /ə/. Đây là những từ riêng cần phân nhóm.",
+            "examples": [
+              {
+                "text": "put",
+                "ipa": "/pʊt/",
+                "meaning": "đặt; để",
+                "speak": "put",
+                "focus": "Một chữ u, nhiều âm; đặt vào từ mới biết."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Nghe put, cup /kʌp/, cute /kjuːt/ rồi đọc lại theo từng cặp.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Một chữ u, nhiều âm; đặt vào từ mới biết.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "E, o, a, i: học cả từ",
+            "explanation": "Other có o đọc /ʌ/; machine có a đầu yếu /ə/. Vị trí nhấn và cấu tạo nhóm chữ đều ảnh hưởng, nên không thay nguyên âm bằng một bảng chữ cái cố định.",
+            "examples": [
+              {
+                "text": "other",
+                "ipa": "/ˈʌðər/",
+                "meaning": "khác",
+                "speak": "other",
+                "focus": "Nhóm ou trong allow không phải o đứng riêng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So other với open /ˈoʊpən/ và machine /məˈʃiːn/. Chỉ ra nguyên âm đang so.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhóm ou trong allow không phải o đứng riêng.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Schwa: âm nhẹ ở âm tiết không nhấn",
+            "explanation": "/ə/ là nguyên âm ngắn, nhẹ, miệng thư giãn. About nhấn âm tiết sau; âm đầu chỉ đi qua nhanh. Không phải mọi âm tiết không nhấn đều thành /ə/.",
+            "examples": [
+              {
+                "text": "about",
+                "ipa": "/əˈbaʊt/",
+                "meaning": "về; khoảng",
+                "speak": "about",
+                "focus": "Âm yếu là nhẹ, không có nghĩa là mất hẳn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc chậm a-BOUT, rồi nối liền; không biến âm đầu thành nguyên âm mạnh.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Âm yếu là nhẹ, không có nghĩa là mất hẳn.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Signal và private khác ngay âm đầu",
+            "explanation": "Signal có /ɪ/, private có /aɪ/ ở âm tiết được nhấn. Đừng lấy chữ i để đoán cả hai giống nhau.",
+            "examples": [
+              {
+                "text": "private",
+                "ipa": "/ˈpraɪvət/",
+                "meaning": "riêng tư",
+                "speak": "private",
+                "focus": "Signal ngắn /ɪ/, private chuyển /aɪ/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So signal /ˈsɪɡnəl/ với private; giữ /aɪ/ chuyển vị trí trong một nhịp.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Signal ngắn /ɪ/, private chuyển /aɪ/.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: không phải mọi âm tiết không nhấn đều dùng /ə/. Chữ o trong allow/account/mountain thuộc nhóm ou, không phải o đứng riêng."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Mọi âm tiết không nhấn đều đọc /ə/ đúng không?",
+          "answer": "Không.",
+          "explanation": "Âm tiết không nhấn còn có /ɪ/, /i/ và các âm khác; phải xét từng từ."
+        }
+      }
     },
     {
       "id": "l7",
@@ -10209,13 +10908,6 @@ window.COURSE = {
         7
       ],
       "summary": "Phân biệt ur, er, or, ar, ir theo từ và vị trí trọng âm.",
-      "rules": [
-        "ur và ir thường có /ɜːr/ trong nurse, first.",
-        "er có /er/, /ɪr/, /ɜːr/ hoặc /ər/ theo từ.",
-        "or có /ɔːr/, /ɜːr/ hoặc /ər/.",
-        "ar có /ɑːr/, /er/ hoặc /ər/; ir trong fire có /aɪər/."
-      ],
-      "note": "Bổ sung: ký hiệu theo tài liệu hướng giọng Mỹ có phát âm r. Giọng không phát âm r và cách ghi /ɝ/, /ɚ/ trong từ điển có thể khác.",
       "examples": [
         {
           "text": "nurse",
@@ -11869,7 +12561,130 @@ window.COURSE = {
           ],
           "topic": "i đầu theo phiên âm /ˈaɪrəni/ /aɪ/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Đọc nguyên âm đi với r theo giọng Mỹ và phân biệt âm mạnh với âm yếu.",
+        "essentials": [
+          "Giọng Mỹ thường phát âm r sau nguyên âm.",
+          "Cùng er/or/ar vẫn có nhiều âm.",
+          "/ɝ/, /ɚ/ là cách ghi thường gặp của âm có màu r."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Ur và ir ở nurse, first",
+            "explanation": "Nguyên âm trong nurse/first được nhấn và có màu r trong giọng Mỹ. Từ điển có thể ghi /ɜːr/ hoặc /ɝː/. Đừng đọc thêm một âm tiết r riêng.",
+            "examples": [
+              {
+                "text": "nurse",
+                "ipa": "/nɜːrs/",
+                "meaning": "y tá",
+                "speak": "nurse",
+                "focus": "Nurse và first chung ô âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So nurse với first /fɜːrst/; đọc cả cụm nguyên âm-r cùng một nhịp.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nurse và first chung ô âm.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Er: teacher không giống very",
+            "explanation": "Đuôi yếu teacher có /ər/ (cũng ghi /ɚ/), còn very có /er/. Er trong her khi được nhấn có /ɜːr/. Cần xem cả từ và trọng âm.",
+            "examples": [
+              {
+                "text": "teacher",
+                "ipa": "/ˈtiːtʃər/",
+                "meaning": "giáo viên",
+                "speak": "teacher",
+                "focus": "Er yếu khác er mạnh."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So teacher với very /ˈveri/ và her /hɜːr/ khi nhấn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Er yếu khác er mạnh.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Or: more, word, doctor",
+            "explanation": "More có /ɔːr/, word có /ɜːr/, đuôi doctor có /ər/. Không suy cách đọc từ chữ or riêng lẻ.",
+            "examples": [
+              {
+                "text": "word",
+                "ipa": "/wɜːrd/",
+                "meaning": "từ",
+                "speak": "word",
+                "focus": "Ba từ neo cho or: more – word – doctor."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc more /mɔːr/, word, doctor /ˈdɑːktər/ rồi so vị trí nhấn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Ba từ neo cho or: more – word – doctor.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ar và fire: nhớ từ cụ thể",
+            "explanation": "Car có /ɑːr/, care có /er/, dollar có đuôi /ər/. Fire có thể được ghi /faɪər/ hoặc /faɪr/ tùy giọng và cách chia âm tiết.",
+            "examples": [
+              {
+                "text": "fire",
+                "ipa": "/faɪər/ hoặc /faɪr/",
+                "meaning": "lửa",
+                "speak": "fire",
+                "focus": "Giọng không phát âm r sau nguyên âm sẽ khác mẫu Mỹ này."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So car /kɑːr/, care /ker/, dollar /ˈdɑːlər/. Sau đó nghe fire trong giọng đã chọn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Giọng không phát âm r sau nguyên âm sẽ khác mẫu Mỹ này.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: ký hiệu theo tài liệu hướng giọng Mỹ có phát âm r. Giọng không phát âm r và cách ghi /ɝ/, /ɚ/ trong từ điển có thể khác."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Word có or giống more không?",
+          "answer": "Không.",
+          "explanation": "Word có /ɜːr/; more có /ɔːr/ trong mẫu đang dùng."
+        }
+      }
     },
     {
       "id": "l8",
@@ -11879,13 +12694,6 @@ window.COURSE = {
         8
       ],
       "summary": "Kết hợp trọng âm và âm theo sau để nhận diện ex-.",
-      "rules": [
-        "ex- được nhấn thường có /eks/ như expert.",
-        "ex- không nhấn trước phụ âm thường có /ɪks/ như expect.",
-        "Trước nguyên âm, ex- thường có /ɪɡz/ như exam; h có thể câm như exhibit.",
-        "x cuối từ thường đọc /ks/."
-      ],
-      "note": "Bổ sung: đây là xu hướng. Không áp dụng cách đọc /ɪɡz/ cho mọi từ có ex + nguyên âm, ví dụ exercise.",
       "examples": [
         {
           "text": "expert",
@@ -12284,7 +13092,130 @@ window.COURSE = {
           ],
           "topic": "x cuối /ks/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Chọn cách đọc ex- bằng trọng âm và âm theo sau, có kiểm tra ngoại lệ.",
+        "essentials": [
+          "Expert: /eks/ được nhấn.",
+          "Expect: /ɪks/ nhẹ trước phụ âm.",
+          "Exam: /ɪɡz/; luôn kiểm tra ngoại lệ."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Expert: ex- được nhấn",
+            "explanation": "Dấu ˈ trước một âm tiết cho biết đó là trọng âm chính: phần được làm nổi bật. Expert nhấn đầu, ex- có /eks/.",
+            "examples": [
+              {
+                "text": "expert",
+                "ipa": "/ˈekspɜːrt/",
+                "meaning": "chuyên gia",
+                "speak": "expert",
+                "focus": "EXpert: nhớ cả trọng âm và nguyên âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc expert chậm, làm âm đầu rõ hơn rồi đọc lại tự nhiên.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "EXpert: nhớ cả trọng âm và nguyên âm.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Expect: ex- nhẹ trước phụ âm",
+            "explanation": "Expect nhấn âm sau, ex- thường /ɪks/ trước /p/. Không thêm nguyên âm vào giữa /k/ và /s/.",
+            "examples": [
+              {
+                "text": "expect",
+                "ipa": "/ɪkˈspekt/",
+                "meaning": "mong đợi",
+                "speak": "expect",
+                "focus": "Nhẹ trước phụ âm: nhớ expect."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So expert với expect; đánh dấu âm tiết được nhấn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhẹ trước phụ âm: nhớ expect.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Exam: /ɡz/ có rung",
+            "explanation": "Exam thường /ɪɡˈzæm/. Exhibit cũng có /ɪɡz/ vì h không thành âm riêng ở đây. Đây là xu hướng, exercise là phản ví dụ cho cách đoán máy móc.",
+            "examples": [
+              {
+                "text": "exam",
+                "ipa": "/ɪɡˈzæm/",
+                "meaning": "kỳ thi",
+                "speak": "exam",
+                "focus": "Nguyên âm theo sau là gợi ý, không phải luật tuyệt đối."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc exam và exhibit /ɪɡˈzɪbɪt/, đặt tay lên cổ khi đọc /z/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nguyên âm theo sau là gợi ý, không phải luật tuyệt đối.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "X cuối từ: giữ cả /ks/",
+            "explanation": "Box có /ks/ ở cuối. Cần nghe được hai thành phần mà không thêm nguyên âm sau chúng.",
+            "examples": [
+              {
+                "text": "box",
+                "ipa": "/bɑːks/",
+                "meaning": "cái hộp",
+                "speak": "box",
+                "focus": "X là một chữ, có thể biểu thị hai âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc box chậm, giữ /s/ cuối rồi đọc lại bình thường.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "X là một chữ, có thể biểu thị hai âm.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: đây là xu hướng. Không áp dụng cách đọc /ɪɡz/ cho mọi từ có ex + nguyên âm, ví dụ exercise."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Có thể đọc mọi ex trước nguyên âm thành /ɪɡz/ không?",
+          "answer": "Không.",
+          "explanation": "Exercise /ˈeksərsaɪz/ vẫn có /eks/."
+        }
+      }
     },
     {
       "id": "l9",
@@ -12294,13 +13225,6 @@ window.COURSE = {
         9
       ],
       "summary": "Dùng từ loại và hậu tố để dự đoán trọng âm, rồi kiểm tra từ cụ thể.",
-      "rules": [
-        "Danh từ, tính từ hai âm tiết thường nhấn âm một; động từ hai âm tiết thường nhấn âm hai.",
-        "Các đuôi -tion, -sion, -ic, -ity thường giúp xác định trọng âm ở trước đuôi.",
-        "Từ dài có thể có trọng âm chính ˈ và trọng âm phụ ˌ.",
-        "Các âm tiết không nhấn thường có nguyên âm yếu."
-      ],
-      "note": "Bổ sung: danh sách đuôi trong PDF có ngoại lệ; -al, -ance, -ence không luôn quyết định trọng âm. Giới từ hai âm tiết cũng không có một quy tắc chung tuyệt đối.",
       "examples": [
         {
           "text": "recognition",
@@ -13349,7 +14273,130 @@ window.COURSE = {
           ],
           "topic": "trọng âm nationality"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Tìm trọng âm bằng IPA và dùng hậu tố như gợi ý, không như luật cứng.",
+        "essentials": [
+          "Âm tiết là một nhịp phát âm.",
+          "ˈ là nhấn chính; ˌ là nhấn phụ.",
+          "Hậu tố và từ loại chỉ giúp đoán bước đầu."
+        ],
+        "terms": [
+          {
+            "term": "Trọng âm",
+            "definition": "Âm tiết nổi bật nhờ sự phối hợp độ rõ, độ dài, cao độ và lực phát âm; không chỉ nói to hơn."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Hai âm tiết: bắt đầu bằng xu hướng",
+            "explanation": "Âm tiết là một nhịp phát âm có trung tâm thường là nguyên âm. Nhiều danh từ hai âm tiết nhấn đầu, nhiều động từ nhấn sau; hotel là danh từ nhưng nhấn sau.",
+            "examples": [
+              {
+                "text": "hotel",
+                "ipa": "/hoʊˈtel/",
+                "meaning": "khách sạn",
+                "speak": "hotel",
+                "focus": "Từ loại giúp đoán; IPA giúp xác nhận."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc teacher /ˈtiːtʃər/, begin /bɪˈɡɪn/, hotel; chỉ ra dấu ˈ nằm trước nhịp nào.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Từ loại giúp đoán; IPA giúp xác nhận.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Hậu tố: tìm âm nổi bật gần đuôi",
+            "explanation": "Với -tion/-sion/-ic/-ity, nhiều từ nhấn âm tiết ngay trước hậu tố. Nhưng cách chia hậu tố và ngoại lệ cần được kiểm tra trên cả từ.",
+            "examples": [
+              {
+                "text": "academic",
+                "ipa": "/ˌækəˈdemɪk/",
+                "meaning": "thuộc học thuật",
+                "speak": "academic",
+                "focus": "Không suy quy tắc chung cho mọi -al, -ance, -ence."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Tìm ˈdem trong academic, rồi so recognition /ˌrekəɡˈnɪʃən/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không suy quy tắc chung cho mọi -al, -ance, -ence.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Hai dấu nhấn khác nhau",
+            "explanation": "ˈ đánh dấu nhấn chính; ˌ đánh dấu nhấn phụ, nhẹ hơn. Từ dài có thể có cả hai nhưng không bắt buộc.",
+            "examples": [
+              {
+                "text": "recognition",
+                "ipa": "/ˌrekəɡˈnɪʃən/",
+                "meaning": "sự nhận ra",
+                "speak": "recognition",
+                "focus": "Dấu nhấn đứng trước âm tiết, không đứng sau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc chậm, làm /nɪ/ nổi bật hơn phần nhấn phụ đầu từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dấu nhấn đứng trước âm tiết, không đứng sau.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Nhấn đúng giúp đọc âm yếu",
+            "explanation": "Âm tiết không nhấn thường nhẹ và ngắn hơn; có thể có /ə/ nhưng không phải luôn luôn. Đừng đọc mọi nguyên âm ngang sức nhau.",
+            "examples": [
+              {
+                "text": "about",
+                "ipa": "/əˈbaʊt/",
+                "meaning": "về; khoảng",
+                "speak": "about",
+                "focus": "Nhịp yếu vẫn có âm, không được tùy tiện xóa."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc hai nhịp, nhịp sau nổi bật; sau đó nối lại tự nhiên.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhịp yếu vẫn có âm, không được tùy tiện xóa.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: danh sách đuôi trong PDF có ngoại lệ; -al, -ance, -ence không luôn quyết định trọng âm. Giới từ hai âm tiết cũng không có một quy tắc chung tuyệt đối."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Dấu ˈ trong /əˈbaʊt/ chỉ phần trước hay sau nó?",
+          "answer": "Phần sau: /baʊt/.",
+          "explanation": "Trọng âm chính thuộc âm tiết thứ hai của about."
+        }
+      }
     },
     {
       "id": "l10",
@@ -13359,12 +14406,6 @@ window.COURSE = {
         10
       ],
       "summary": "Nhận diện nhóm hậu tố thường đi cùng trọng âm cách đuôi một âm tiết.",
-      "rules": [
-        "Các nhóm -ate, -gy, -cy, -ize/-ise, -ary, -ous thường có xu hướng trọng âm cách đuôi một âm tiết.",
-        "Đuôi -ate của động từ thường đọc /eɪt/.",
-        "Đuôi -ate của danh từ, tính từ thường yếu hơn, có /ət/ hoặc /ɪt/."
-      ],
-      "note": "Bổ sung: phải xét từng từ và từ loại. Đây không phải quy tắc tuyệt đối; không suy ra trọng âm chỉ từ vài chữ cuối.",
       "examples": [
         {
           "text": "graduate",
@@ -13663,7 +14704,107 @@ window.COURSE = {
           ],
           "topic": "phân biệt hậu tố và quy tắc"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Phân biệt trọng âm của cả từ với cách đọc đuôi -ate theo từ loại.",
+        "essentials": [
+          "Không có một phép đếm trọng âm đúng cho mọi hậu tố.",
+          "Động từ graduate có /eɪt/.",
+          "Danh từ graduate có /ət/, nhấn chính vẫn ở đầu."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Nhìn hậu tố rồi kiểm tra cả từ",
+            "explanation": "Các nhóm -ate, -gy, -cy, -ize/-ise, -ary, -ous có xu hướng được nêu trong PDF, nhưng không dùng một phép đếm cho tất cả. Pharmacy nhấn đầu, apologize nhấn âm hai.",
+            "examples": [
+              {
+                "text": "pharmacy",
+                "ipa": "/ˈfɑːrməsi/",
+                "meaning": "hiệu thuốc",
+                "speak": "pharmacy",
+                "focus": "Học từ neo theo nhóm; tránh suy từ vài chữ cuối."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So pharmacy, apologize /əˈpɑːlədʒaɪz/, necessary /ˈnesəseri/. Tìm dấu nhấn trước khi đọc.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Học từ neo theo nhóm; tránh suy từ vài chữ cuối.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Graduate là động từ: đuôi /eɪt/",
+            "explanation": "Khi nói tốt nghiệp, graduate có đuôi /eɪt/. Đuôi đọc đầy đủ không có nghĩa trọng âm chính chuyển xuống đuôi.",
+            "examples": [
+              {
+                "text": "graduate (động từ)",
+                "ipa": "/ˈɡrædʒueɪt/",
+                "meaning": "tốt nghiệp",
+                "speak": "I graduate this year.",
+                "focus": "Âm đuôi và trọng âm là hai điều khác nhau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc I graduate this year. Giữ trọng âm chính ở đầu từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Âm đuôi và trọng âm là hai điều khác nhau.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Graduate là danh từ: đuôi yếu",
+            "explanation": "Khi nói người tốt nghiệp, graduate kết thúc /ət/. Một số từ -ate khác có /ɪt/; phải xét từ loại và từ cụ thể.",
+            "examples": [
+              {
+                "text": "graduate (danh từ)",
+                "ipa": "/ˈɡrædʒuət/",
+                "meaning": "người tốt nghiệp",
+                "speak": "She is a graduate.",
+                "focus": "Nghĩa và từ loại quyết định mẫu -ate đang học."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So She is a graduate với I graduate this year; nghe phần cuối khác nhau.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nghĩa và từ loại quyết định mẫu -ate đang học.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: phải xét từng từ và từ loại. Đây không phải quy tắc tuyệt đối; không suy ra trọng âm chỉ từ vài chữ cuối."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Graduate đọc /eɪt/ ở đuôi trong mọi câu không?",
+          "answer": "Không.",
+          "explanation": "Động từ là /ˈɡrædʒueɪt/; danh từ là /ˈɡrædʒuət/."
+        }
+      }
     },
     {
       "id": "l11",
@@ -13673,12 +14814,6 @@ window.COURSE = {
         11
       ],
       "summary": "Âm o ở tiền tố thường yếu đi khi không mang trọng âm.",
-      "rules": [
-        "con- có /kɑːn/ khi được nhấn trong contact, và /kən/ trong consider.",
-        "com- có thể giữ nguyên âm đầy đủ trong competition và có /kəm/ trong compete.",
-        "pro- có /prɑː/ trong product, /proʊ/ trong program và /prə/ trong produce (v)."
-      ],
-      "note": "Bổ sung: competition có trọng âm phụ ở đầu. Không phải mọi o không nhấn đều trở thành schwa.",
       "examples": [
         {
           "text": "consider",
@@ -13977,7 +15112,107 @@ window.COURSE = {
           ],
           "topic": "pro- trong program /proʊ/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "So nguyên âm của tiền tố khi nhấn, nhấn phụ và không nhấn.",
+        "essentials": [
+          "Contact giữ âm mạnh; consider có /kən/.",
+          "Competition có nhấn phụ, khác compete.",
+          "Pro- có nhiều cách đọc theo từ."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Con-: contact và consider",
+            "explanation": "Tiền tố là phần đứng đầu từ. Contact nhấn đầu nên giữ nguyên âm đầy đủ; consider có con- nhẹ thành /kən/.",
+            "examples": [
+              {
+                "text": "consider",
+                "ipa": "/kənˈsɪdər/",
+                "meaning": "cân nhắc",
+                "speak": "consider",
+                "focus": "Đừng đọc mọi con- giống nhau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So contact /ˈkɑːntækt/ và consider, chỉ ra âm tiết nhấn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đừng đọc mọi con- giống nhau.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Com-: vẫn có thể giữ nguyên âm",
+            "explanation": "Compete có /kəm/. Competition giữ nguyên âm đầu và có nhấn phụ ở đó, dù nhấn chính nằm phía sau.",
+            "examples": [
+              {
+                "text": "competition",
+                "ipa": "/ˌkɑːmpəˈtɪʃən/",
+                "meaning": "cuộc thi",
+                "speak": "competition",
+                "focus": "Không nhấn chính không đồng nghĩa phải schwa."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So compete /kəmˈpiːt/ với competition; đọc nhấn phụ nhẹ hơn nhấn chính.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không nhấn chính không đồng nghĩa phải schwa.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Pro-: ba từ neo",
+            "explanation": "Product có /prɑː/, program có /proʊ/, produce khi là động từ thường có /prə/. Từ loại của produce cần được biết trước.",
+            "examples": [
+              {
+                "text": "produce (động từ)",
+                "ipa": "/prəˈduːs/",
+                "meaning": "sản xuất",
+                "speak": "They produce food.",
+                "focus": "Nhớ product – program – produce, không chỉ nhớ pro-."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So product /ˈprɑːdʌkt/, program /ˈproʊɡræm/, produce trong They produce food.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhớ product – program – produce, không chỉ nhớ pro-.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: competition có trọng âm phụ ở đầu. Không phải mọi o không nhấn đều trở thành schwa."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Competition có bắt buộc com- thành /kəm/ vì không nhấn chính không?",
+          "answer": "Không.",
+          "explanation": "Competition có nhấn phụ ở đầu và giữ nguyên âm đầy đủ."
+        }
+      }
     },
     {
       "id": "l12",
@@ -13987,12 +15222,6 @@ window.COURSE = {
         12
       ],
       "summary": "Nhận diện -ee, -eer, -ese và âm schwa ở đuôi không nhấn.",
-      "rules": [
-        "-self, -ee, -eer, -ese, -ique, -esque thường nhận trọng âm.",
-        "ain có /eɪn/ khi được nhấn trong maintain nhưng có thể yếu thành /ən/ trong certain.",
-        "Các đuôi không nhấn như -er, -or, -ar thường có /ər/."
-      ],
-      "note": "Bổ sung: không phải mọi từ kết thúc bằng cùng chữ đều tuân thủ, ví dụ coffee không nhấn ở -ee.",
       "examples": [
         {
           "text": "degree",
@@ -14491,7 +15720,107 @@ window.COURSE = {
           ],
           "topic": "nguyên âm đuôi yếu /ə/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận biết các đuôi thường mang trọng âm và phân biệt đuôi yếu.",
+        "essentials": [
+          "-ee/-eer/-ese thường nhận trọng âm, có ngoại lệ.",
+          "Maintain có /eɪn/, certain có đuôi yếu.",
+          "Đuôi er/or/ar yếu thường /ər/ trong giọng Mỹ."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Các đuôi thường được làm nổi bật",
+            "explanation": "Những nhóm -self, -ee, -eer, -ese, -ique, -esque thường nhận trọng âm. Coffee không theo mẫu -ee này; chữ giống nhau chưa chắc cùng hậu tố.",
+            "examples": [
+              {
+                "text": "degree",
+                "ipa": "/dɪˈɡriː/",
+                "meaning": "bằng cấp; độ",
+                "speak": "degree",
+                "focus": "Dấu ˈ xác nhận điều mình đoán từ đuôi."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So degree, engineer /ˌendʒɪˈnɪr/, Vietnamese /ˌvjetnəˈmiːz/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dấu ˈ xác nhận điều mình đoán từ đuôi.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ain: mạnh và yếu khác nhau",
+            "explanation": "Maintain có âm cuối nhấn /eɪn/. Certain không nhấn đuôi, thường /ən/ hoặc âm n tạo âm tiết tùy cách ghi.",
+            "examples": [
+              {
+                "text": "maintain",
+                "ipa": "/meɪnˈteɪn/",
+                "meaning": "duy trì",
+                "speak": "maintain",
+                "focus": "Maintain mạnh, certain yếu."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So certain /ˈsɜːrtən/ với maintain; không kéo dài đuôi yếu như đuôi mạnh.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Maintain mạnh, certain yếu.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Er, or, ar ở đuôi yếu",
+            "explanation": "Teacher, doctor, dollar có đuôi /ər/ trong giọng Mỹ. Từ điển có thể ghi /ɚ/ để chỉ nguyên âm có màu r.",
+            "examples": [
+              {
+                "text": "doctor",
+                "ipa": "/ˈdɑːktər/",
+                "meaning": "bác sĩ",
+                "speak": "doctor",
+                "focus": "Chỉ áp mẫu này khi đuôi thực sự không nhấn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So teacher /ˈtiːtʃər/, doctor, dollar /ˈdɑːlər/; đọc đuôi nhẹ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Chỉ áp mẫu này khi đuôi thực sự không nhấn.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: không phải mọi từ kết thúc bằng cùng chữ đều tuân thủ, ví dụ coffee không nhấn ở -ee."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Coffee có nhấn cuối chỉ vì kết thúc bằng ee không?",
+          "answer": "Không.",
+          "explanation": "Coffee nhấn âm đầu; phải nhận diện cả từ, không chỉ hai chữ cuối."
+        }
+      }
     },
     {
       "id": "l13",
@@ -14501,12 +15830,6 @@ window.COURSE = {
         13
       ],
       "summary": "So sánh từ gốc và từ được thêm hậu tố.",
-      "rules": [
-        "Các đuôi -able, -age, -ist, -ish, -hood, -ment, -ship, -en thường giữ vị trí trọng âm gốc.",
-        "Các đuôi -ful, -ing, -ly, -ness, -less, -ism thường cũng không đổi trọng âm gốc.",
-        "Luôn đối chiếu từ hoàn chỉnh với từ gốc."
-      ],
-      "note": "Bổ sung: danh sách là xu hướng. Không nên suy rộng -tive cho mọi từ; cách đọc và trọng âm còn phụ thuộc cấu tạo từ.",
       "examples": [
         {
           "text": "careful",
@@ -15280,7 +16603,107 @@ window.COURSE = {
           ],
           "topic": "hậu tố -tive"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Giữ trọng âm của từ gốc khi thêm những hậu tố quen thuộc.",
+        "essentials": [
+          "Tìm từ gốc trước.",
+          "Nhiều hậu tố giữ trọng âm gốc.",
+          "Kiểm tra từ hoàn chỉnh và ngoại lệ."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Tìm từ gốc trước khi thêm đuôi",
+            "explanation": "Hậu tố đứng cuối từ, thường thêm nghĩa hoặc đổi từ loại. -able, -age, -ist, -ish, -hood, -ment, -ship, -en thường giữ vị trí nhấn của gốc.",
+            "examples": [
+              {
+                "text": "childish",
+                "ipa": "/ˈtʃaɪldɪʃ/",
+                "meaning": "trẻ con; thiếu chín chắn",
+                "speak": "childish",
+                "focus": "Thêm đuôi không có nghĩa phải chuyển nhấn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc child /tʃaɪld/ rồi childish; giữ nhịp đầu nổi bật.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Thêm đuôi không có nghĩa phải chuyển nhấn.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Nhóm đuôi thường không kéo trọng âm",
+            "explanation": "Các đuôi -ful, -ing, -ly, -ness, -less, -ism thường cũng giữ trọng âm gốc. Đọc phần thêm nhẹ hơn khi phù hợp.",
+            "examples": [
+              {
+                "text": "exciting",
+                "ipa": "/ɪkˈsaɪtɪŋ/",
+                "meaning": "thú vị; gây hào hứng",
+                "speak": "exciting",
+                "focus": "Giữ phần vốn nổi bật trong gốc."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc excite /ɪkˈsaɪt/ rồi exciting; so care /ker/ và careful /ˈkerfəl/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Giữ phần vốn nổi bật trong gốc.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Đối chiếu từ hoàn chỉnh",
+            "explanation": "Đừng tự cắt mọi chữ cuối thành hậu tố. Language không đơn giản là một từ gốc cộng -age. Các nhóm như -tive không có một luật nhấn chung đáng áp cho mọi từ.",
+            "examples": [
+              {
+                "text": "relationship",
+                "ipa": "/rɪˈleɪʃənʃɪp/",
+                "meaning": "mối quan hệ",
+                "speak": "relationship",
+                "focus": "Có từ gốc rõ rồi mới áp xu hướng giữ nhấn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So relation /rɪˈleɪʃən/ và relationship; kiểm tra IPA từ hoàn chỉnh.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Có từ gốc rõ rồi mới áp xu hướng giữ nhấn.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: danh sách là xu hướng. Không nên suy rộng -tive cho mọi từ; cách đọc và trọng âm còn phụ thuộc cấu tạo từ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Exciting có chuyển trọng âm sang -ing không?",
+          "answer": "Không.",
+          "explanation": "Nó giữ trọng âm ở âm tiết /saɪ/, như excite."
+        }
+      }
     },
     {
       "id": "l14",
@@ -15290,13 +16713,6 @@ window.COURSE = {
         14
       ],
       "summary": "Có cặp danh từ–động từ đổi trọng âm, cũng có từ giữ nguyên.",
-      "rules": [
-        "Một số cặp có danh từ nhấn âm một, động từ nhấn âm hai: permit, object, progress.",
-        "perfect (adj) thường nhấn đầu; perfect (v) nhấn sau.",
-        "Các từ như contact, control, report có thể giữ trọng âm giữa danh từ và động từ.",
-        "Xét nghĩa và từ loại trong câu trước khi chọn trọng âm."
-      ],
-      "note": "Bổ sung: protest, retail, transport có khác biệt theo giọng và cách dùng. Câu hỏi ở đây dùng các cặp rõ nghĩa để tránh mơ hồ.",
       "examples": [
         {
           "text": "a permit",
@@ -16300,7 +17716,130 @@ window.COURSE = {
           ],
           "topic": "protest có biến thể"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Dựa vào nghĩa và từ loại trong câu để chọn trọng âm đúng.",
+        "essentials": [
+          "Permit/object có cặp đổi trọng âm theo từ loại.",
+          "Perfect: tính từ đầu, động từ sau.",
+          "Contact/report không tự động đổi theo mẫu đó."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Permit, object: đổi vai trò, đổi nhấn",
+            "explanation": "Danh từ gọi tên người/vật/khái niệm; động từ diễn tả hành động/trạng thái. A permit nhấn đầu; permit an action nhấn sau.",
+            "examples": [
+              {
+                "text": "a permit",
+                "ipa": "/ə ˈpɜːrmɪt/",
+                "meaning": "một giấy phép",
+                "speak": "We need a permit.",
+                "focus": "Đọc nghĩa câu trước, đánh dấu nhấn sau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So We need a permit với They permit it /pərˈmɪt/. Làm tương tự object: /ˈɑːbdʒekt/ và /əbˈdʒekt/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đọc nghĩa câu trước, đánh dấu nhấn sau.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Perfect cũng đổi theo vai trò",
+            "explanation": "Perfect là tính từ nghĩa hoàn hảo thường nhấn đầu; động từ nghĩa hoàn thiện nhấn sau. Cần nghe cả câu để biết đang dùng cách nào.",
+            "examples": [
+              {
+                "text": "perfect (tính từ)",
+                "ipa": "/ˈpɜːrfɪkt/",
+                "meaning": "hoàn hảo",
+                "speak": "It is a perfect day.",
+                "focus": "Hoàn hảo và hoàn thiện dẫn đến hai mẫu nhấn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So a perfect day với perfect your skills /pərˈfekt/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Hoàn hảo và hoàn thiện dẫn đến hai mẫu nhấn.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Không phải cặp nào cũng đổi",
+            "explanation": "Contact thường giữ nhấn đầu; control/report thường giữ nhấn sau giữa danh từ và động từ. Vì vậy không áp luật danh từ đầu, động từ sau cho mọi từ.",
+            "examples": [
+              {
+                "text": "report",
+                "ipa": "/rɪˈpɔːrt/",
+                "meaning": "báo cáo; báo lại",
+                "speak": "They report the news.",
+                "focus": "Học cả cặp đổi và cặp không đổi."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc a report và report the news; giữ cùng vị trí nhấn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Học cả cặp đổi và cặp không đổi.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Kiểm tra ngữ cảnh và giọng",
+            "explanation": "Progress/protest/retail/transport có biến thể theo giọng hoặc cách dùng. Nếu một từ có nhiều mẫu hợp lệ, cần ghi rõ giọng trước khi chọn.",
+            "examples": [
+              {
+                "text": "an object",
+                "ipa": "/ən ˈɑːbdʒekt/",
+                "meaning": "một đồ vật",
+                "speak": "It is an object.",
+                "focus": "Không dùng một từ đứng lẻ để đoán từ loại."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So I object /aɪ əbˈdʒekt/ với an object; giải thích nghĩa trước khi đọc.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không dùng một từ đứng lẻ để đoán từ loại.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: protest, retail, transport có khác biệt theo giọng và cách dùng. Câu hỏi ở đây dùng các cặp rõ nghĩa để tránh mơ hồ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Report là danh từ thì phải nhấn âm đầu đúng không?",
+          "answer": "Không.",
+          "explanation": "Report thường nhấn âm sau ở cả danh từ và động từ."
+        }
+      }
     },
     {
       "id": "l15",
@@ -16310,12 +17849,6 @@ window.COURSE = {
         15
       ],
       "summary": "Quyết định bằng âm cuối của từ gốc, không chỉ bằng chữ cuối.",
-      "rules": [
-        "-ed đọc /ɪd/ sau /t/ hoặc /d/.",
-        "-ed đọc /t/ sau các phụ âm vô thanh /k, f, p, s, tʃ, ʃ/.",
-        "-ed đọc /d/ sau nguyên âm và các phụ âm hữu thanh còn lại."
-      ],
-      "note": "Đính chính PDF: hữu thanh là voiced, không phải unvoiced. Bổ sung: một số tính từ -ed có cách đọc riêng; các câu luyện dùng động từ quá khứ thông thường.",
       "examples": [
         {
           "text": "worked",
@@ -16694,7 +18227,111 @@ window.COURSE = {
           ],
           "topic": "vận dụng ed /t/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Chọn /ɪd/, /t/ hoặc /d/ cho -ed bằng âm cuối của động từ gốc.",
+        "essentials": [
+          "Âm cuối /t, d/ → /ɪd/.",
+          "Âm vô thanh khác → /t/.",
+          "Nguyên âm và âm hữu thanh khác → /d/."
+        ],
+        "terms": [
+          {
+            "term": "Hữu thanh",
+            "definition": "Dây thanh rung khi phát âm; đặt nhẹ tay lên cổ để cảm nhận /v/ rồi so với /f/ không rung."
+          },
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Kiểm tra /t/ và /d/ trước",
+            "explanation": "Wanted và needed thêm một âm tiết /ɪd/ vì từ gốc đã kết thúc /t/ hoặc /d/. Xét âm cuối, không chỉ chữ cuối.",
+            "examples": [
+              {
+                "text": "wanted",
+                "ipa": "/ˈwɑːntɪd/",
+                "meaning": "đã muốn",
+                "speak": "wanted",
+                "focus": "Gặp /t, d/ trước: thêm /ɪd/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc want /wɑːnt/, nhận ra /t/, rồi wanted. So need /niːd/ → needed /ˈniːdɪd/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Gặp /t, d/ trước: thêm /ɪd/.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Sau âm vô thanh còn lại: /t/",
+            "explanation": "Âm vô thanh không tạo rung dây thanh. Đặt tay lên cổ và đọc /f/ rồi /v/ để so. Sau /k, f, p, s, tʃ, ʃ/, -ed là /t/.",
+            "examples": [
+              {
+                "text": "laughed",
+                "ipa": "/læft/",
+                "meaning": "đã cười",
+                "speak": "laughed",
+                "focus": "Không nhìn gh: nghe /f/ mới chọn được /t/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc laugh /læf/, nghe /f/ cuối, nối /t/ không thêm nguyên âm. So worked /wɜːrkt/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không nhìn gh: nghe /f/ mới chọn được /t/.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Sau âm hữu thanh còn lại: /d/",
+            "explanation": "Âm hữu thanh có rung dây thanh, như /n, m, v, z/ và các nguyên âm. Sau chúng, thêm /d/ mà không thêm âm tiết.",
+            "examples": [
+              {
+                "text": "turned",
+                "ipa": "/tɜːrnd/",
+                "meaning": "đã quay; đã rẽ",
+                "speak": "turned",
+                "focus": "Loại /t, d/ trước; còn lại xét rung hay không rung."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc turn /tɜːrn/, đặt tay lên cổ cảm nhận /n/, rồi thêm /d/. So played /pleɪd/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Loại /t, d/ trước; còn lại xét rung hay không rung.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Đính chính PDF: hữu thanh là voiced, không phải unvoiced. Bổ sung: một số tính từ -ed có cách đọc riêng; các câu luyện dùng động từ quá khứ thông thường."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Laughed có -ed đọc /ɪd/ vì viết gh trước ed không?",
+          "answer": "Không.",
+          "explanation": "Laugh kết thúc bằng âm /f/ vô thanh nên laughed có /t/: /læft/, chỉ một âm tiết."
+        }
+      }
     },
     {
       "id": "l16",
@@ -16704,13 +18341,6 @@ window.COURSE = {
         16
       ],
       "summary": "Phân loại theo âm cuối của từ gốc: /s/, /z/ hoặc /ɪz/.",
-      "rules": [
-        "Đọc /ɪz/ sau /s, z, ʃ, ʒ, tʃ, dʒ/.",
-        "Đọc /s/ sau /θ, p, t, k, f/.",
-        "Đọc /z/ sau nguyên âm và phụ âm hữu thanh còn lại.",
-        "Chú ý từ gốc tận cùng -se có thể mang âm /s/ hoặc /z/."
-      ],
-      "note": "Bổ sung: biến thể nguyên âm yếu /əz/ cũng có thể xuất hiện thay /ɪz/. Cần nghe âm cuối thay vì chỉ nhìn chữ.",
       "examples": [
         {
           "text": "stops",
@@ -17089,7 +18719,134 @@ window.COURSE = {
           ],
           "topic": "vận dụng s /ʃ/"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Chọn đuôi -s/-es bằng âm cuối, không dựa vào chữ viết.",
+        "essentials": [
+          "Sáu âm xì → /ɪz/.",
+          "/θ, p, t, k, f/ → /s/.",
+          "Nguyên âm và hữu thanh khác → /z/."
+        ],
+        "terms": [
+          {
+            "term": "Hữu thanh",
+            "definition": "Âm có rung dây thanh. Đặt nhẹ tay lên cổ khi đọc /z/, so với /s/ không rung."
+          },
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Nhóm âm xì: thêm một âm tiết",
+            "explanation": "Sau /s, z, ʃ, ʒ, tʃ, dʒ/, thêm /ɪz/. Vì các âm này đã có tiếng xì, một nguyên âm yếu giúp nối đuôi rõ.",
+            "examples": [
+              {
+                "text": "places",
+                "ipa": "/ˈpleɪsɪz/",
+                "meaning": "những nơi chốn",
+                "speak": "places",
+                "focus": "Kiểm tra sáu âm xì trước."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc place /pleɪs/ rồi places; so watch /wɑːtʃ/ → watches /ˈwɑːtʃɪz/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Kiểm tra sáu âm xì trước.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Vô thanh còn lại: /s/",
+            "explanation": "Sau /θ, p, t, k, f/, đuôi là /s/. Vô thanh nghĩa là dây thanh không rung; đặt tay lên cổ để so /s/ với /z/.",
+            "examples": [
+              {
+                "text": "stops",
+                "ipa": "/stɑːps/",
+                "meaning": "các điểm dừng; dừng lại",
+                "speak": "stops",
+                "focus": "Âm cuối không rung kéo theo /s/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc stop /stɑːp/ rồi stops, không thêm nguyên âm.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Âm cuối không rung kéo theo /s/.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Hữu thanh còn lại: /z/",
+            "explanation": "Sau nguyên âm và các phụ âm hữu thanh khác, đuôi là /z/. Giữ tiếng rung khi nối đuôi; đừng biến mọi s thành /s/.",
+            "examples": [
+              {
+                "text": "goes",
+                "ipa": "/ɡoʊz/",
+                "meaning": "đi (ngôi thứ ba)",
+                "speak": "goes",
+                "focus": "Nguyên âm và âm có rung còn lại đi với /z/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So go → goes và friend /frend/ → friends /frendz/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nguyên âm và âm có rung còn lại đi với /z/.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Từ có se: nghe âm cuối gốc",
+            "explanation": "Place kết thúc /s/, raise kết thúc /z/. Cả hai thuộc nhóm âm xì nên -s/-es tạo /ɪz/, dù âm cuối gốc không giống nhau.",
+            "examples": [
+              {
+                "text": "raises",
+                "ipa": "/ˈreɪzɪz/",
+                "meaning": "nâng lên (ngôi thứ ba)",
+                "speak": "raises",
+                "focus": "Chữ e câm không phải âm cuối của từ."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So place /pleɪs/ và raise /reɪz/, rồi thêm đuôi.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Chữ e câm không phải âm cuối của từ.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: biến thể nguyên âm yếu /əz/ cũng có thể xuất hiện thay /ɪz/. Cần nghe âm cuối thay vì chỉ nhìn chữ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Goes có đuôi /ɪz/ vì viết es không?",
+          "answer": "Không.",
+          "explanation": "Go kết thúc bằng nguyên âm /oʊ/, nên thêm /z/: /ɡoʊz/."
+        }
+      }
     },
     {
       "id": "l17",
@@ -17099,12 +18856,6 @@ window.COURSE = {
         17
       ],
       "summary": "Âm /t/ có thể thành cú chạm lưỡi nhanh /ɾ/ trong lời nói tự nhiên.",
-      "rules": [
-        "/t/ thường thành /ɾ/ giữa các âm hữu thanh khi âm tiết sau không nhấn, như city, later.",
-        "Hiện tượng có thể gặp sau r như party, dirty và giữa các từ như a lot of.",
-        "Khi mở đầu âm tiết được nhấn như attack, /t/ thường được phát rõ."
-      ],
-      "note": "Bổ sung: /ɾ/ không hoàn toàn giống /d/. Mức độ flap tùy giọng, nhịp và từ; giọng tổng hợp có thể không biểu hiện rõ.",
       "examples": [
         {
           "text": "city",
@@ -18553,7 +20304,111 @@ window.COURSE = {
           ],
           "topic": "t trước âm tiết nhấn"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra cú chạm lưỡi /ɾ/ trong giọng Mỹ mà vẫn đọc rõ từ.",
+        "essentials": [
+          "Flap [ɾ] là cú chạm lưỡi nhanh.",
+          "Hay gặp trước âm tiết không nhấn.",
+          "Không áp cho mọi t, nhất là t ở đầu âm tiết nhấn."
+        ],
+        "terms": [
+          {
+            "term": "Hữu thanh và vô thanh",
+            "definition": "Hữu thanh nghĩa là dây thanh rung. Đặt nhẹ tay lên cổ khi đọc /z/, rồi so với /s/ không rung. Không ép hoặc bóp cổ."
+          },
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Flap là một cú chạm nhanh",
+            "explanation": "Trong city/later, /t/ giữa các âm hữu thanh, trước âm tiết không nhấn, thường thành [ɾ]. Dấu / / ghi âm trong từ; [ ] ghi cách phát âm cụ thể.",
+            "examples": [
+              {
+                "text": "city",
+                "ipa": "/ˈsɪti/ → [ˈsɪɾi]",
+                "meaning": "thành phố",
+                "speak": "city",
+                "focus": "[ɾ] không đồng nhất với /d/ hay d tiếng Việt."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc city chậm với /t/ rõ, rồi thử chạm đầu lưỡi rất nhanh và đọc lại cả từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "[ɾ] không đồng nhất với /d/ hay d tiếng Việt.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Sau r và qua ranh giới từ",
+            "explanation": "Party có thể có flap; a lot of cũng có thể nối thành flap ở t. Hiện tượng phụ thuộc nhịp và giọng, không chỉ chữ ở trong một từ.",
+            "examples": [
+              {
+                "text": "party",
+                "ipa": "/ˈpɑːrti/ → [ˈpɑːrɾi]",
+                "meaning": "bữa tiệc",
+                "speak": "party",
+                "focus": "Âm tiết sau không nhấn là điều kiện quan trọng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So party với a lot of /ə ˈlɑːt əv/; nghe rồi bắt chước nhẹ nhàng.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Âm tiết sau không nhấn là điều kiện quan trọng.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Attack: /t/ mở đầu phần được nhấn",
+            "explanation": "Attack có /t/ đầu âm tiết nhấn, nên thường phát rõ với hơi bật. Đừng flap mọi chữ t trong giọng Mỹ.",
+            "examples": [
+              {
+                "text": "attack",
+                "ipa": "/əˈtæk/",
+                "meaning": "tấn công",
+                "speak": "attack",
+                "focus": "Xem trọng âm trước khi thử flap."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So attack và city; xác định dấu ˈ trước khi đọc.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Xem trọng âm trước khi thử flap.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: /ɾ/ không hoàn toàn giống /d/. Mức độ flap tùy giọng, nhịp và từ; giọng tổng hợp có thể không biểu hiện rõ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Attack có nên flap t giống city trong mẫu này không?",
+          "answer": "Không.",
+          "explanation": "/t/ trong attack mở đầu âm tiết được nhấn, thường được phát rõ."
+        }
+      }
     },
     {
       "id": "l18",
@@ -18563,12 +20418,6 @@ window.COURSE = {
         18
       ],
       "summary": "Trong một số giọng Mỹ, /t/ có thể yếu đi hoặc mất sau /n/.",
-      "rules": [
-        "Các từ twenty, winter, center có thể được đọc với /t/ yếu hoặc lược đi.",
-        "Hiện tượng còn xuất hiện trong cụm want it và một số câu nói nhanh.",
-        "Luyện chậm, giữ nghĩa rõ rồi tăng tốc; không cần cố bỏ âm."
-      ],
-      "note": "Bổ sung: hiện tượng tùy người nói và ngữ cảnh, không bắt buộc. counted, wanted còn có thể gặp những biến thể khác.",
       "examples": [
         {
           "text": "winter",
@@ -19217,7 +21066,107 @@ window.COURSE = {
           ],
           "topic": "luyện câu nt"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nghe được biến thể lược /t/ sau /n/ và biết khi nào nên giữ cách đọc rõ.",
+        "essentials": [
+          "Nt có thể yếu trong một số giọng Mỹ.",
+          "Có thể xảy ra giữa hai từ.",
+          "Giữ cách đọc rõ khi chưa làm chủ nhịp."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Winter và twenty: biến thể tự nhiên",
+            "explanation": "Trong một số giọng Mỹ, /t/ sau /n/ trước nguyên âm yếu có thể rất nhẹ hoặc mất. Winter có thể nghe gần winner; đây không phải cách đọc duy nhất.",
+            "examples": [
+              {
+                "text": "winter",
+                "ipa": "/ˈwɪntər/ → [ˈwɪnər]",
+                "meaning": "mùa đông",
+                "speak": "winter",
+                "focus": "Nhận biết biến thể trước khi tự dùng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc winter rõ trước, nghe dạng nhanh rồi so; dùng nghĩa câu để phân biệt với winner.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhận biết biến thể trước khi tự dùng.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Want it: hiện tượng qua hai từ",
+            "explanation": "Khi nối want it, /t/ có thể yếu hoặc mất trong một số cách nói. /n/ nối sang nguyên âm đầu it; không bỏ cả cụm cuối.",
+            "examples": [
+              {
+                "text": "want it",
+                "ipa": "/wɑːnt ɪt/ → [wɑːn ɪt]",
+                "meaning": "muốn điều đó",
+                "speak": "want it",
+                "focus": "Nói nhanh không có nghĩa phải bỏ /t/."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc want, it riêng rồi nối; so dạng có /t/ rõ và dạng nhẹ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nói nhanh không có nghĩa phải bỏ /t/.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Luyện rõ rồi tăng tốc",
+            "explanation": "Giữ đủ âm trước giúp người nghe nhận đúng từ. Chỉ thử biến thể sau khi nhận ra vị trí /n/ + /t/ và âm tiết yếu theo sau.",
+            "examples": [
+              {
+                "text": "twenty",
+                "ipa": "/ˈtwenti/",
+                "meaning": "hai mươi",
+                "speak": "twenty",
+                "focus": "Dạng rõ luôn là điểm bắt đầu tốt."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc twenty chậm, sau đó nghe giọng mẫu; chọn cách dễ nói rõ và nhất quán.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dạng rõ luôn là điểm bắt đầu tốt.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: hiện tượng tùy người nói và ngữ cảnh, không bắt buộc. counted, wanted còn có thể gặp những biến thể khác."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Twenty bắt buộc bỏ /t/ mới đúng giọng Mỹ không?",
+          "answer": "Không.",
+          "explanation": "Mức độ yếu hoặc lược /t/ tùy giọng, tốc độ và ngữ cảnh."
+        }
+      }
     },
     {
       "id": "l19",
@@ -19227,12 +21176,6 @@ window.COURSE = {
         19
       ],
       "summary": "Luyện vị trí chặn và chuyển sang âm mũi trong button, written.",
-      "rules": [
-        "Trong nhiều giọng, t trước n tạo âm tiết có thể không bật rõ hoặc được thanh hầu hóa.",
-        "Các ví dụ trong tài liệu: written, kitten, button, mountain.",
-        "Một số cụm phủ định như didn’t, couldn’t có dạng yếu trong lời nói tự nhiên."
-      ],
-      "note": "Bổ sung: các từ trong danh sách không có cùng cơ chế ở mọi giọng; garden và hidden có /d/. Không biến toàn bộ danh sách thành một quy tắc bỏ t/d.",
       "examples": [
         {
           "text": "button",
@@ -20331,7 +22274,107 @@ window.COURSE = {
           ],
           "topic": "âm n trong phủ định"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Hiểu t không bật rõ và âm n tạo âm tiết; tránh bỏ nhầm t/d.",
+        "essentials": [
+          "N có thể tạo một âm tiết yếu.",
+          "T có thể không bật hoặc thanh hầu hóa, tùy giọng.",
+          "Không áp một luật bỏ t/d cho toàn bộ danh sách."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "N có thể tự tạo một nhịp yếu",
+            "explanation": "Âm n tạo âm tiết nghĩa là n làm trung tâm của nhịp đó, không cần một nguyên âm đầy đủ. Trong button, t có thể giữ chặn hoặc chuyển thành chặn thanh hầu.",
+            "examples": [
+              {
+                "text": "button",
+                "ipa": "/ˈbʌtən/; có thể [ˈbʌʔn̩]",
+                "meaning": "cái nút",
+                "speak": "button",
+                "focus": "Không bật rõ không đồng nghĩa xóa mọi âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc dạng rõ button trước. Nghe mẫu chuyển từ chặn sang n; không ép cổ để tạo [ʔ].",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không bật rõ không đồng nghĩa xóa mọi âm.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Các từ trong danh sách không hoàn toàn giống nhau",
+            "explanation": "Written, kitten, mountain có nhiều biến thể theo giọng. Dạng rõ có nguyên âm yếu vẫn hợp lệ; không phải tất cả đều cần cùng một thao tác.",
+            "examples": [
+              {
+                "text": "written",
+                "ipa": "/ˈrɪtən/",
+                "meaning": "đã viết; dạng viết",
+                "speak": "written",
+                "focus": "Học từng từ cùng giọng mẫu."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Nghe written rồi kitten /ˈkɪtən/. Đọc chậm, không chèn nguyên âm mạnh giữa t và n.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Học từng từ cùng giọng mẫu.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Phủ định: phải giữ được nghĩa",
+            "explanation": "Didn’t/couldn’t có dạng yếu, nhưng việc nghe ra phủ định rất quan trọng. Hidden và garden có /d/, không phải ví dụ để áp luật bỏ t hàng loạt.",
+            "examples": [
+              {
+                "text": "hidden",
+                "ipa": "/ˈhɪdən/",
+                "meaning": "được giấu; ẩn",
+                "speak": "hidden",
+                "focus": "Đừng để giảm âm làm mất nghĩa phủ định."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So hidden với written. Đọc I didn’t go /aɪ ˈdɪdənt ɡoʊ/ rõ trước khi thử nói nhanh.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đừng để giảm âm làm mất nghĩa phủ định.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: các từ trong danh sách không có cùng cơ chế ở mọi giọng; garden và hidden có /d/. Không biến toàn bộ danh sách thành một quy tắc bỏ t/d."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Hidden là ví dụ có cùng t với button không?",
+          "answer": "Không.",
+          "explanation": "Hidden có /d/. Cần xét âm thực tế của từng từ."
+        }
+      }
     },
     {
       "id": "l20",
@@ -20341,12 +22384,6 @@ window.COURSE = {
         20
       ],
       "summary": "Giữ vị trí cấu âm mà không thêm một tiếng bật mạnh không cần thiết.",
-      "rules": [
-        "Sáu phụ âm tắc là /p, b, t, d, k, g/.",
-        "Trước một phụ âm khác, âm tắc cuối có thể không bật rõ: put back, big dog.",
-        "/t, d/ ở cụm phụ âm cuối có thể bị lược trong nói nhanh: next week, left me."
-      ],
-      "note": "Đính chính PDF: không phải cả sáu âm đều là phụ âm bật hơi. Không bật âm và bỏ âm là hai hiện tượng khác nhau; không bắt buộc bỏ t/d ở mọi cụm.",
       "examples": [
         {
           "text": "put back",
@@ -21020,7 +23057,102 @@ window.COURSE = {
           ],
           "topic": "so sánh ranh giới"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Phân biệt chặn hơi, không bật rõ và lược âm khi nối phụ âm.",
+        "essentials": [
+          "Âm tắc dùng một chỗ chặn luồng hơi.",
+          "Không bật rõ vẫn có thể giữ động tác chặn.",
+          "Lược âm là mất âm, không bắt buộc."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Sáu âm tắc: chặn rồi mở",
+            "explanation": "/p, b/ chặn bằng môi; /t, d/ ở vùng sau răng trên; /k, ɡ/ ở phía sau miệng. Tắc không đồng nghĩa cả sáu đều bật hơi.",
+            "examples": [
+              {
+                "text": "big",
+                "ipa": "/bɪɡ/",
+                "meaning": "to; lớn",
+                "speak": "big",
+                "focus": "Cùng vị trí chặn, có thể khác độ rung."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc /p, b/, /t, d/, /k, ɡ/ theo cặp, cảm nhận vị trí chặn và độ rung.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cùng vị trí chặn, có thể khác độ rung.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Không bật rõ trước phụ âm",
+            "explanation": "Trong put back, vị trí chặn của t vẫn có thể được giữ nhưng không có tiếng bật riêng rõ. Không thêm một nguyên âm để làm tiếng bật dễ nghe.",
+            "examples": [
+              {
+                "text": "put back",
+                "ipa": "/pʊt bæk/; t có thể [t̚]",
+                "meaning": "đặt trở lại",
+                "speak": "put back",
+                "focus": "Không nghe tiếng bật không có nghĩa âm đã mất."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc từng từ rồi nối, giữ chặn t ngắn trước b. So big dog /bɪɡ dɔːɡ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không nghe tiếng bật không có nghĩa âm đã mất.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Lược /t, d/ là hiện tượng khác",
+            "explanation": "Trong next week/left me, t trong cụm phụ âm có thể mất khi nói nhanh. Đây là biến thể, không bắt buộc và không nên làm lời nói khó hiểu.",
+            "examples": [
+              {
+                "text": "next week",
+                "ipa": "/nekst wiːk/ → [neks wiːk]",
+                "meaning": "tuần tới",
+                "speak": "next week",
+                "focus": "Nhận ra khác biệt giữa không bật và bỏ âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc đủ /kst/ trước, rồi nghe dạng nhanh; so với âm t chỉ không bật ở put back.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhận ra khác biệt giữa không bật và bỏ âm.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Đính chính PDF: không phải cả sáu âm đều là phụ âm bật hơi. Không bật âm và bỏ âm là hai hiện tượng khác nhau; không bắt buộc bỏ t/d ở mọi cụm."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Không bật t có đồng nghĩa lúc nào cũng bỏ t không?",
+          "answer": "Không.",
+          "explanation": "Âm có thể giữ vị trí chặn nhưng không có tiếng bật rõ; lược âm là hiện tượng khác."
+        }
+      }
     },
     {
       "id": "l21",
@@ -21031,12 +23163,6 @@ window.COURSE = {
         22
       ],
       "summary": "Hai âm liền nhau có thể tác động hoặc hòa nhập trong lời nói tự nhiên.",
-      "rules": [
-        "/t/ + /j/ có thể thành /tʃ/: want you; /d/ + /j/ có thể thành /dʒ/: did you.",
-        " /s/ + /j/ có thể thành /ʃ/: miss you; /z/ + /j/ có thể thành /ʒ/: how’s your.",
-        "Tài liệu còn nêu những dạng giản lược ở this shop, both sides, is this."
-      ],
-      "note": "Bổ sung: các phép cộng âm là mô hình luyện nói giản lược. Đặc biệt lược th hoặc s/z không bắt buộc và có thể làm lời nói kém rõ nếu lạm dụng.",
       "examples": [
         {
           "text": "want you",
@@ -22586,7 +24712,102 @@ window.COURSE = {
           ],
           "topic": "luyện câu ranh giới"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra hai âm cạnh nhau hòa nhập khi gặp /j/ trong lời nói tự nhiên.",
+        "essentials": [
+          "/t, d/ + /j/ có thể thành /tʃ, dʒ/.",
+          "/s, z/ + /j/ có thể thành /ʃ, ʒ/.",
+          "Đây là biến thể; nói rõ vẫn đúng."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "T/d gặp âm đầu you",
+            "explanation": "Âm /j/ là âm đầu you. /t/ + /j/ có thể hòa thành /tʃ/, /d/ + /j/ thành /dʒ/. Không cần cố dùng trong mọi câu.",
+            "examples": [
+              {
+                "text": "did you",
+                "ipa": "/dɪd juː/ → [dɪdʒuː]",
+                "meaning": "bạn đã … chưa?",
+                "speak": "did you",
+                "focus": "Hai âm gặp nhau có thể thành một âm hòa nhập."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc did, you riêng rồi nối. So want you /wɑːnt juː/ → [wɑːntʃuː].",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Hai âm gặp nhau có thể thành một âm hòa nhập.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "S/z gặp /j/",
+            "explanation": "Miss you có thể có /ʃ/; how’s your có thể có /ʒ/. /ʒ/ có rung ở cổ, /ʃ/ không rung. Đặt tay lên cổ để so.",
+            "examples": [
+              {
+                "text": "miss you",
+                "ipa": "/mɪs juː/ → [mɪʃuː]",
+                "meaning": "nhớ bạn",
+                "speak": "miss you",
+                "focus": "S không rung → sh; z có rung → /ʒ/ trong mẫu này."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc miss you rồi how’s your /haʊz jər/ → [haʊʒər]. Giữ nghĩa và ranh giới từ trong đầu.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "S không rung → sh; z có rung → /ʒ/ trong mẫu này.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Các dạng giản lược khác: ưu tiên nghe hiểu",
+            "explanation": "This shop, both sides, is this trong PDF minh họa ảnh hưởng của âm cạnh nhau. Chúng không phải công thức buộc xóa th hoặc s/z mọi lần.",
+            "examples": [
+              {
+                "text": "this shop",
+                "ipa": "/ðɪs ʃɑːp/",
+                "meaning": "cửa hàng này",
+                "speak": "this shop",
+                "focus": "Đừng học đồng hóa như danh sách lệnh bỏ âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc rõ từng âm rồi nối nhẹ. Nếu người nghe khó hiểu, trở về dạng rõ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đừng học đồng hóa như danh sách lệnh bỏ âm.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: các phép cộng âm là mô hình luyện nói giản lược. Đặc biệt lược th hoặc s/z không bắt buộc và có thể làm lời nói kém rõ nếu lạm dụng."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Did you có thể hòa thành /dʒ/ ở ranh giới hai từ không?",
+          "answer": "Có.",
+          "explanation": "/d/ gặp /j/ có thể hòa thành /dʒ/ trong lời nói tự nhiên; không bắt buộc."
+        }
+      }
     },
     {
       "id": "l22",
@@ -22596,13 +24817,6 @@ window.COURSE = {
         23
       ],
       "summary": "Phân biệt đọc từng chữ cái với cách đọc từ viết tắt thông dụng.",
-      "rules": [
-        "Các chuỗi đọc từng chữ như USA, BBC, TV thường có trọng âm nổi bật ở chữ cuối.",
-        "Dr., Mr., Ms., Mrs. là các dạng viết tắt có cách đọc từ đầy đủ tương ứng.",
-        "St. phụ thuộc ngữ cảnh; PDF đưa ví dụ street.",
-        "etc. là et cetera; e.g. có thể đọc e.g. hoặc for example."
-      ],
-      "note": "Bổ sung: tiêu đề acronym trong PDF bao gồm cả initialisms. Acronym đọc như một từ, ví dụ NASA, không tuân thủ quy tắc nhấn chữ cuối.",
       "examples": [
         {
           "text": "USA",
@@ -22926,7 +25140,125 @@ window.COURSE = {
           ],
           "topic": "cách đọc viết tắt e.g."
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Đọc chữ viết tắt theo loại và ngữ cảnh thay vì đánh vần mọi dạng.",
+        "essentials": [
+          "USA/TV thường đọc từng chữ, nổi bật chữ cuối.",
+          "Danh xưng đọc thành từ đầy đủ.",
+          "St. và e.g. cần xét ngữ cảnh."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Đọc từng chữ: thường nổi bật chữ cuối",
+            "explanation": "USA, BBC, TV thường đọc tên từng chữ. Trong mẫu trung tính, chữ cuối nổi bật hơn; nhấn đối lập vẫn có thể đổi điều này.",
+            "examples": [
+              {
+                "text": "TV",
+                "ipa": "/ˌtiːˈviː/",
+                "meaning": "truyền hình",
+                "speak": "TV",
+                "focus": "Đọc từng chữ khác đọc cả chuỗi như một từ."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc USA /ˌjuː es ˈeɪ/ và TV, làm chữ cuối nổi bật.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Đọc từng chữ khác đọc cả chuỗi như một từ.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Danh xưng: đọc thành từ",
+            "explanation": "Dr. trước tên đọc Doctor; Mr. là Mister; Mrs. là Missus. Ms. thường /mɪz/, không biểu thị tình trạng hôn nhân như cách phân biệt truyền thống Miss/Mrs.",
+            "examples": [
+              {
+                "text": "Mrs. Smith",
+                "ipa": "/ˌmɪsɪz ˈsmɪθ/",
+                "meaning": "bà Smith",
+                "speak": "Mrs. Smith",
+                "focus": "Nhìn đủ dấu chấm và chữ cuối của danh xưng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So Mr. Smith /ˌmɪstər ˈsmɪθ/ với Mrs. Smith và Ms. Smith /ˌmɪz ˈsmɪθ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhìn đủ dấu chấm và chữ cuối của danh xưng.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "St.: ngữ cảnh quyết định",
+            "explanation": "St. trong địa chỉ có thể là street; trước tên thánh có thể là Saint. Không có một cách mở rộng đúng cho mọi St.",
+            "examples": [
+              {
+                "text": "Main St.",
+                "ipa": "/ˈmeɪn striːt/",
+                "meaning": "phố Main",
+                "speak": "Main Street.",
+                "focus": "Cùng dạng viết tắt, có thể là hai từ khác nhau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc Main Street; so St. Paul /seɪnt ˈpɔːl/ trong tên gọi.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cùng dạng viết tắt, có thể là hai từ khác nhau.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Etc. và e.g.",
+            "explanation": "Etc. là et cetera, nghĩa là vân vân. E.g. nghĩa là ví dụ, có thể đọc tên chữ hoặc nói for example tùy ngữ cảnh.",
+            "examples": [
+              {
+                "text": "et cetera",
+                "ipa": "/et ˈsetərə/",
+                "meaning": "vân vân",
+                "speak": "et cetera",
+                "focus": "NASA đọc như một từ, không áp luật nhấn chữ cuối."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc et cetera rồi for example /fər ɪɡˈzæmpəl/; nhớ chức năng nghĩa của từng dạng.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "NASA đọc như một từ, không áp luật nhấn chữ cuối.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: tiêu đề acronym trong PDF bao gồm cả initialisms. Acronym đọc như một từ, ví dụ NASA, không tuân thủ quy tắc nhấn chữ cuối."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "NASA có bắt buộc nhấn chữ A cuối như USA không?",
+          "answer": "Không.",
+          "explanation": "NASA là acronym đọc như một từ; USA là chuỗi đọc từng chữ."
+        }
+      }
     },
     {
       "id": "l23",
@@ -22936,12 +25268,6 @@ window.COURSE = {
         24
       ],
       "summary": "Một số nguyên âm yếu ở giữa từ có thể được lược để lời nói gọn hơn.",
-      "rules": [
-        "Các từ different, several, camera, interest có thể có dạng rút gọn âm tiết.",
-        "Các nhóm khác gồm comfortable, history, library, chocolate, family.",
-        "Luyện cả dạng rõ và dạng tự nhiên; không chèn thêm nguyên âm mạnh."
-      ],
-      "note": "Bổ sung: số âm tiết và mức lược âm thay đổi theo giọng, tốc độ và từ. Không phải mọi chữ ở giữa đều là schwa hoặc đều có thể bỏ.",
       "examples": [
         {
           "text": "different",
@@ -23965,7 +26291,111 @@ window.COURSE = {
           ],
           "topic": "đếm âm tiết dạng gọn jewelry"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nghe dạng rút gọn âm tiết mà không tùy tiện bỏ nguyên âm trong mọi từ.",
+        "essentials": [
+          "Schwa là nguyên âm yếu /ə/.",
+          "Một từ có thể có hai số âm tiết hợp lệ.",
+          "Học dạng rõ trước rồi nghe dạng tự nhiên."
+        ],
+        "terms": [
+          {
+            "term": "Schwa /ə/",
+            "definition": "Nguyên âm nhẹ, ngắn, miệng thư giãn, thường xuất hiện ở âm tiết không nhấn."
+          },
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Schwa có thể yếu đến mức mất",
+            "explanation": "Trong camera, một số giọng dùng dạng hai âm tiết, một số dùng ba. /ə/ là nguyên âm yếu; khi mất, các phụ âm cạnh nhau nối trực tiếp.",
+            "examples": [
+              {
+                "text": "camera",
+                "ipa": "/ˈkæmərə/ hoặc /ˈkæmrə/",
+                "meaning": "máy ảnh",
+                "speak": "camera",
+                "focus": "Hai dạng có thể đều hợp lệ theo giọng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc dạng rõ rồi nghe dạng ngắn; đếm nhịp thực tế, không đếm chữ cái.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Hai dạng có thể đều hợp lệ theo giọng.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Không phải từ nào cũng rút như nhau",
+            "explanation": "Family, chocolate, history, comfortable, library có biến thể về số âm tiết và nguyên âm. Không dùng một thao tác xóa âm cho cả danh sách.",
+            "examples": [
+              {
+                "text": "family",
+                "ipa": "/ˈfæməli/ hoặc /ˈfæmli/",
+                "meaning": "gia đình",
+                "speak": "family",
+                "focus": "Từ và giọng quyết định mức rút gọn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc family rõ rồi dạng ngắn; so chocolate /ˈtʃɑːklət/. Giữ trọng âm đầu.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Từ và giọng quyết định mức rút gọn.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Tập theo trình tự rõ → tự nhiên",
+            "explanation": "Nắm dạng rõ giúp nhận từ và tránh lược nhầm âm mang nghĩa. Tăng tốc vừa đủ; nếu cụm phụ âm khó, không chèn thêm nguyên âm mạnh.",
+            "examples": [
+              {
+                "text": "different",
+                "ipa": "/ˈdɪfərənt/ hoặc /ˈdɪfrənt/",
+                "meaning": "khác nhau",
+                "speak": "different",
+                "focus": "Nhận biết không đồng nghĩa bắt buộc tự lược."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc chậm, xác định âm yếu, nghe so hai dạng, rồi đọc lại trong a different day.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhận biết không đồng nghĩa bắt buộc tự lược.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: số âm tiết và mức lược âm thay đổi theo giọng, tốc độ và từ. Không phải mọi chữ ở giữa đều là schwa hoặc đều có thể bỏ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Camera bắt buộc phải có ba âm tiết không?",
+          "answer": "Không.",
+          "explanation": "Dạng hai hoặc ba âm tiết có thể xuất hiện tùy giọng và người nói."
+        }
+      }
     },
     {
       "id": "l24",
@@ -23976,12 +26406,6 @@ window.COURSE = {
         26
       ],
       "summary": "Vị trí nhấn có thể giúp phân biệt danh từ ghép với cụm mô tả.",
-      "rules": [
-        "Danh từ ghép thường nhấn thành tố đầu: living room, playground, post office.",
-        "Tính từ ghép và động từ ghép thường có thành tố sau nổi bật, nhưng có ngoại lệ.",
-        "So sánh greenhouse (nhà kính) với a green house (nhà màu xanh)."
-      ],
-      "note": "Bổ sung: trọng âm từ ghép chịu ảnh hưởng nghĩa và ngữ cảnh; không phải mọi tính từ ghép đều nhấn từ thứ hai. Số trang PDF thực tế lệch một trang từ phần này vì hai trang đều in số 25.",
       "examples": [
         {
           "text": "greenhouse",
@@ -24934,7 +27358,107 @@ window.COURSE = {
           ],
           "topic": "kn câm k"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Phân biệt từ ghép gọi tên một thứ với cụm mô tả bằng nghĩa và trọng âm.",
+        "essentials": [
+          "Danh từ ghép thường nhấn đầu.",
+          "Các loại ghép khác có ngoại lệ.",
+          "Greenhouse khác green house về nghĩa và nhấn trung tính."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Danh từ ghép: thường nổi bật phần đầu",
+            "explanation": "Living room, playground, post office gọi tên một loại sự vật. Chúng thường nhấn thành tố đầu; không nên tự suy trọng âm từ cách viết liền hoặc cách.",
+            "examples": [
+              {
+                "text": "post office",
+                "ipa": "/ˈpoʊst ˌɔːfɪs/",
+                "meaning": "bưu điện",
+                "speak": "post office",
+                "focus": "Tên một loại sự vật: thử tìm nhịp đầu nổi bật."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc post office, playground /ˈpleɪɡraʊnd/, living room /ˈlɪvɪŋ ruːm/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Tên một loại sự vật: thử tìm nhịp đầu nổi bật.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Tính từ/động từ ghép: kiểm tra từng từ",
+            "explanation": "Nhiều tính từ hoặc động từ ghép có phần sau nổi bật, nhưng có ngoại lệ. Cấu tạo và nghĩa của từ mới giúp chọn đúng; đừng áp cho mọi dấu gạch nối.",
+            "examples": [
+              {
+                "text": "withdraw",
+                "ipa": "/wɪðˈdrɔː/ hoặc /wɪθˈdrɔː/",
+                "meaning": "rút; rút lui",
+                "speak": "withdraw",
+                "focus": "Từ loại giúp đoán, không thay thế từ điển."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc withdraw, so well-known /ˌwel ˈnoʊn/; kiểm tra dấu nhấn cả từ.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Từ loại giúp đoán, không thay thế từ điển.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Greenhouse và green house",
+            "explanation": "Greenhouse là nhà kính: thường nhấn green. A green house là ngôi nhà màu xanh: trong mẫu trung tính, house nổi bật. Khi đối lập màu, green có thể nhận nhấn.",
+            "examples": [
+              {
+                "text": "greenhouse",
+                "ipa": "/ˈɡriːnhaʊs/",
+                "meaning": "nhà kính",
+                "speak": "greenhouse",
+                "focus": "Nghĩa đổi thì cách nhấn có thể đổi."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So a green house /ə ɡriːn ˈhaʊs/ rồi nói nghĩa của từng cụm.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nghĩa đổi thì cách nhấn có thể đổi.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: trọng âm từ ghép chịu ảnh hưởng nghĩa và ngữ cảnh; không phải mọi tính từ ghép đều nhấn từ thứ hai. Số trang PDF thực tế lệch một trang từ phần này vì hai trang đều in số 25."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Greenhouse và a green house có cùng nghĩa không?",
+          "answer": "Không.",
+          "explanation": "Greenhouse là nhà kính; a green house là nhà có màu xanh. Ngữ cảnh đối lập có thể làm đổi trọng âm cụm."
+        }
+      }
     },
     {
       "id": "l25",
@@ -24944,13 +27468,6 @@ window.COURSE = {
         27
       ],
       "summary": "Nhận diện ’ll, ’re, ’ve, ’s và ’d qua ngữ cảnh.",
-      "rules": [
-        "will → ’ll: I’ll, you’ll, we’ll.",
-        "am/is/are → ’m/’s/’re: I’m, he’s, they’re.",
-        "have/has → ’ve/’s: I’ve, she’s.",
-        "would/had → ’d: I’d, they’d; cần ngữ cảnh để phân biệt."
-      ],
-      "note": "Bổ sung: ’s có thể là is hoặc has; ’d có thể là would hoặc had. Không suy ra dạng đầy đủ chỉ từ dấu nháy.",
       "examples": [
         {
           "text": "I'll go",
@@ -26504,7 +29021,125 @@ window.COURSE = {
           ],
           "topic": "rút gọn trong câu"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Mở rộng dạng rút gọn bằng cấu trúc và nghĩa của cả câu.",
+        "essentials": [
+          "’Ll là will; ’m/’re là am/are.",
+          "’S có thể is hoặc has.",
+          "’D có thể had hoặc would; đọc cả câu."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Ll là will",
+            "explanation": "I’ll, you’ll, we’ll rút gọn chủ ngữ và will. Không cần đọc dấu nháy; giữ âm cuối để người nghe nhận ra cấu trúc.",
+            "examples": [
+              {
+                "text": "I’ll go",
+                "ipa": "/aɪl ɡoʊ/",
+                "meaning": "tôi sẽ đi",
+                "speak": "I’ll go",
+                "focus": "Dấu nháy đánh dấu chữ bị lược, không phải âm mới."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc I will go rồi I’ll go, so số nhịp và phần /l/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dấu nháy đánh dấu chữ bị lược, không phải âm mới.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "M, s, re với be",
+            "explanation": "I’m = I am; we’re = we are. She’s working có ’s = is vì đang làm việc: be + động từ -ing.",
+            "examples": [
+              {
+                "text": "She’s working",
+                "ipa": "/ʃiːz ˈwɜːrkɪŋ/",
+                "meaning": "cô ấy đang làm việc",
+                "speak": "She’s working",
+                "focus": "Nhìn cấu trúc theo sau để hiểu ’s."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Mở thành She is working, rồi rút lại. So We’re going /wɪr ˈɡoʊɪŋ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhìn cấu trúc theo sau để hiểu ’s.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Ve và s với have/has",
+            "explanation": "I’ve = I have. She’s finished her work có ’s = has trong cấu trúc hoàn thành, không phải is. Cần xem cả phần sau, không chỉ một từ finished đứng lẻ.",
+            "examples": [
+              {
+                "text": "I’ve lived here",
+                "ipa": "/aɪv lɪvd hɪr/",
+                "meaning": "tôi đã sống ở đây",
+                "speak": "I’ve lived here",
+                "focus": "’S có thể là is hoặc has."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Mở I have lived here. So She has finished her work → She’s finished her work.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "’S có thể là is hoặc has.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "D có thể là had hoặc would",
+            "explanation": "I’d go thường = I would go; I’d gone = I had gone. I’d rather stay dùng would rather, nghĩa là thích ở lại hơn.",
+            "examples": [
+              {
+                "text": "I’d rather stay",
+                "ipa": "/aɪd ˈræðər steɪ/",
+                "meaning": "tôi thích ở lại hơn",
+                "speak": "I’d rather stay",
+                "focus": "Không chọn had/would chỉ từ dấu ’d."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Mở I would rather stay; so I had gone với I would go.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không chọn had/would chỉ từ dấu ’d.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: ’s có thể là is hoặc has; ’d có thể là would hoặc had. Không suy ra dạng đầy đủ chỉ từ dấu nháy."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Trong She’s working, ’s là has hay is?",
+          "answer": "Là is: She is working diễn tả đang làm việc.",
+          "explanation": "Không thể chọn chỉ từ ’s mà bỏ qua working."
+        }
+      }
     },
     {
       "id": "l26",
@@ -26515,13 +29150,6 @@ window.COURSE = {
         29
       ],
       "summary": "Nhận diện dạng yếu của từ chức năng và cách nói thân mật.",
-      "rules": [
-        "for, from, to, at, as, of có dạng yếu thường chứa /ə/.",
-        "going to → gonna, want to → wanna, have to → hafta là cách ghi gần âm nói thân mật.",
-        "could have → coulda, let me → lemme, give me → gimme trong lời nói thân mật.",
-        "h ở he, him, her, his có thể yếu hoặc mất khi không nhấn; them có dạng /əm/."
-      ],
-      "note": "Bổ sung: các dạng ghi âm nói không thay chính tả chuẩn. going to chỉ rút thành gonna trong cách dùng thích hợp; giảm âm phụ thuộc nhấn mạnh và ngữ cảnh.",
       "examples": [
         {
           "text": "I'm going to study",
@@ -28151,7 +30779,125 @@ window.COURSE = {
           ],
           "topic": "giảm âm trong câu him"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra dạng yếu khi nghe và dùng chúng đúng ngữ cảnh, đúng chính tả.",
+        "essentials": [
+          "Từ không nhấn có thể dùng dạng yếu.",
+          "Gonna cần đúng cấu trúc going to.",
+          "Các dạng thân mật không thay chính tả chuẩn."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Từ chức năng thường có dạng yếu",
+            "explanation": "For, from, to, at, as, of thường đọc nhẹ khi không được nhấn, nhiều dạng chứa /ə/. Khi đối lập hoặc nói riêng, chúng có thể dùng dạng mạnh.",
+            "examples": [
+              {
+                "text": "a cup of tea",
+                "ipa": "/ə ˌkʌp əv ˈtiː/",
+                "meaning": "một tách trà",
+                "speak": "a cup of tea",
+                "focus": "Dạng yếu phụ thuộc nhịp, không chỉ mặt chữ."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc of /əv/ nhẹ trong cụm rồi so dạng mạnh /ʌv/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dạng yếu phụ thuộc nhịp, không chỉ mặt chữ.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Gonna, wanna, hafta: nhận ra nghĩa gốc",
+            "explanation": "Going to chỉ thành gonna phù hợp khi chỉ dự định/tương lai trước động từ. Going to school chỉ chuyển động, không thay bằng gonna school. Wanna/hafta cũng là cách ghi lời nói thân mật.",
+            "examples": [
+              {
+                "text": "going to study",
+                "ipa": "/ˈɡoʊɪŋ tə ˈstʌdi/ → [ˈɡənə ˈstʌdi]",
+                "meaning": "sẽ học",
+                "speak": "going to study",
+                "focus": "Nghĩa đúng trước, giảm âm sau."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc I’m going to study rồi nghe dạng ngắn; so I’m going to school giữ nghĩa di chuyển.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nghĩa đúng trước, giảm âm sau.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Coulda, lemme, gimme",
+            "explanation": "Coulda biểu thị could have, không phải could of. Lemme/gimme biểu thị let me/give me trong lời nói thân mật; khi viết chuẩn vẫn dùng dạng đầy đủ.",
+            "examples": [
+              {
+                "text": "could have",
+                "ipa": "/kʊd həv/ → [kʊdəv]",
+                "meaning": "đã có thể",
+                "speak": "could have",
+                "focus": "Cách ghi gần âm nói không thay ngữ pháp chuẩn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc could have chậm, nghe dạng yếu rồi đọc lại. So let me /let miː/ → [lemi].",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cách ghi gần âm nói không thay ngữ pháp chuẩn.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "H và them khi không nhấn",
+            "explanation": "He/him/her/his có thể yếu hoặc mất h trong một số ngữ cảnh không nhấn; them có thể /əm/. Khi đối lập người, cần đọc rõ hơn.",
+            "examples": [
+              {
+                "text": "see him",
+                "ipa": "/siː hɪm/ → [siː ɪm]",
+                "meaning": "thấy anh ấy",
+                "speak": "see him",
+                "focus": "Giảm âm phục vụ nhịp, không làm mất người được nhắc đến."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc see him rõ, nghe dạng yếu rồi đặt vào một câu; không tự bỏ h khi nhấn HIM.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Giảm âm phục vụ nhịp, không làm mất người được nhắc đến.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: các dạng ghi âm nói không thay chính tả chuẩn. going to chỉ rút thành gonna trong cách dùng thích hợp; giảm âm phụ thuộc nhấn mạnh và ngữ cảnh."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Coulda có nghĩa là could of không?",
+          "answer": "Không.",
+          "explanation": "Nó là cách ghi gần âm nói của could have."
+        }
+      }
     },
     {
       "id": "l27",
@@ -28161,13 +30907,6 @@ window.COURSE = {
         30
       ],
       "summary": "Kết nối từ thành cụm nghĩa thay vì đọc từng từ rời rạc.",
-      "rules": [
-        "Hai âm giống nhau cạnh nhau thường được nối liền: book club, that time.",
-        "Các âm tương đồng có thể chia sẻ vị trí cấu âm; tài liệu đưa ví dụ I’ve finished, with the.",
-        "Phụ âm cuối nối sang nguyên âm đầu: turn around, like a.",
-        "Sau /uː/ hoặc /oʊ/, có thể có âm chuyển /w/ nhẹ trước nguyên âm: do it, so old."
-      ],
-      "note": "Bổ sung: không bắt buộc bỏ hoàn toàn một trong hai âm tương đồng. Phân biệt nối liền với lược âm; ưu tiên lời nói rõ.",
       "examples": [
         {
           "text": "turn around",
@@ -28891,7 +31630,130 @@ window.COURSE = {
           ],
           "topic": "cụm ds ts"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nối các từ liền mạch mà không thêm nguyên âm hoặc xóa âm tùy tiện.",
+        "essentials": [
+          "Hai âm giống nhau có thể nối cùng một đoạn chặn.",
+          "Phụ âm cuối nối sang nguyên âm đầu.",
+          "Âm chuyển /w/ nhẹ không tạo âm tiết mới."
+        ],
+        "terms": [
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Hai âm giống nhau: nối cùng một đoạn",
+            "explanation": "Book kết thúc /k/, club bắt đầu /k/. Có thể giữ một đoạn chặn dài hơn rồi mở sang club, không cần hai tiếng bật riêng.",
+            "examples": [
+              {
+                "text": "book club",
+                "ipa": "/bʊk klʌb/",
+                "meaning": "câu lạc bộ sách",
+                "speak": "book club",
+                "focus": "Nối liền không có nghĩa cả hai từ mất âm k."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc từng từ, giữ chặn k ở ranh giới rồi nối lại.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nối liền không có nghĩa cả hai từ mất âm k.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Âm tương đồng: chuyển vị trí nhẹ",
+            "explanation": "I’ve finished có /v/ gặp /f/ cùng dùng môi dưới và răng trên. Có thể chuyển nhẹ độ rung, không bắt buộc bỏ hoàn toàn một âm.",
+            "examples": [
+              {
+                "text": "I’ve finished",
+                "ipa": "/aɪv ˈfɪnɪʃt/",
+                "meaning": "tôi đã hoàn thành",
+                "speak": "I’ve finished",
+                "focus": "Cùng vị trí không có nghĩa giống hệt âm."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đặt tay lên cổ so /v/ và /f/, rồi nối cụm. So with the /wɪð ðə/; with cũng có biến thể /wɪθ/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Cùng vị trí không có nghĩa giống hệt âm.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Phụ âm cuối nối sang nguyên âm đầu",
+            "explanation": "Turn around có /n/ cuối nối liền vào âm đầu around. Âm vẫn thuộc từ gốc; không cần chèn nguyên âm ở giữa.",
+            "examples": [
+              {
+                "text": "turn around",
+                "ipa": "/tɜːrn əˈraʊnd/",
+                "meaning": "quay lại",
+                "speak": "turn around",
+                "focus": "Giữ phụ âm cuối để nối, đừng bỏ mất."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc turn, around riêng, rồi nối /n/ với /ə/. So like a /laɪk ə/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Giữ phụ âm cuối để nối, đừng bỏ mất.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Chuyển môi /w/ nhẹ",
+            "explanation": "Sau /uː/ hoặc /oʊ/ trước nguyên âm, chuyển môi tự nhiên có thể tạo tiếng gần /w/. Không thêm một âm tiết mới hoặc nhấn mạnh w.",
+            "examples": [
+              {
+                "text": "do it",
+                "ipa": "/duː ɪt/ → [duːwɪt]",
+                "meaning": "làm điều đó",
+                "speak": "do it",
+                "focus": "Chuyển liền, không chen một từ mới."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc do rồi it, nối môi nhẹ và so so old /soʊ oʊld/.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Chuyển liền, không chen một từ mới.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: không bắt buộc bỏ hoàn toàn một trong hai âm tương đồng. Phân biệt nối liền với lược âm; ưu tiên lời nói rõ."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Turn around có cần bỏ /n/ cuối turn để đọc nhanh không?",
+          "answer": "Không.",
+          "explanation": "Giữ /n/ và nối liền sang nguyên âm đầu around."
+        }
+      }
     },
     {
       "id": "l28",
@@ -28901,13 +31763,6 @@ window.COURSE = {
         31
       ],
       "summary": "Dùng trọng âm câu để làm rõ thông tin chính.",
-      "rules": [
-        "Từ nội dung thường được nhấn: danh từ, động từ chính, tính từ, trạng từ và từ để hỏi.",
-        "Từ chức năng thường yếu: mạo từ, giới từ, trợ động từ và đại từ.",
-        "Đại từ sở hữu đứng độc lập như mine, yours có thể nhận nhấn.",
-        "Nhịp câu thay đổi khi cần nhấn mạnh hoặc sửa thông tin."
-      ],
-      "note": "Bổ sung: phần này tương ứng PART 19 trong PDF. Không phải mọi từ nội dung đều được nhấn, và từ chức năng vẫn có thể được nhấn để đối lập.",
       "examples": [
         {
           "text": "I like music",
@@ -30731,7 +33586,125 @@ window.COURSE = {
           ],
           "topic": "nhấn đối lập"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Chọn từ nổi bật theo thông tin muốn truyền đạt, không chỉ theo từ loại.",
+        "essentials": [
+          "Từ nội dung thường mang nhịp chính.",
+          "Từ chức năng thường yếu nhưng vẫn có thể nhấn.",
+          "Ngữ cảnh quyết định điểm nổi bật."
+        ],
+        "terms": [],
+        "sections": [
+          {
+            "title": "Từ mang nội dung: điểm bắt đầu của nhịp",
+            "explanation": "Danh từ, động từ chính, tính từ, trạng từ, từ để hỏi thường mang thông tin chính. Tuy nhiên không phải tất cả đều nổi bật ngang nhau trong một câu.",
+            "examples": [
+              {
+                "text": "I like music",
+                "ipa": "/aɪ laɪk ˈmjuːzɪk/",
+                "meaning": "tôi thích âm nhạc",
+                "speak": "I like music",
+                "focus": "Nhấn theo thông tin cần nghe nhất."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc mẫu trung tính nhấn music, rồi thử nhấn like khi muốn đối lập thích với ghét.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Nhấn theo thông tin cần nghe nhất.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Từ chức năng: thường đọc nhẹ",
+            "explanation": "Mạo từ, giới từ, trợ động từ, đại từ thường hỗ trợ cấu trúc. Do trong What do you do? có hai vai trò: trợ động từ đầu và động từ chính cuối.",
+            "examples": [
+              {
+                "text": "a cup of tea",
+                "ipa": "/ə ˌkʌp əv ˈtiː/",
+                "meaning": "một tách trà",
+                "speak": "a cup of tea",
+                "focus": "Yếu không đồng nghĩa được xóa."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc a/of nhẹ, tea nổi bật; không bỏ mất từ chỉ vì nó yếu.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Yếu không đồng nghĩa được xóa.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Mine, yours đứng độc lập",
+            "explanation": "Đại từ sở hữu đứng riêng có thể mang thông tin chính. Mine trong This book is mine có thể nổi bật vì đang nói ai sở hữu.",
+            "examples": [
+              {
+                "text": "This book is mine",
+                "ipa": "/ðɪs bʊk ɪz ˈmaɪn/",
+                "meaning": "cuốn sách này là của tôi",
+                "speak": "This book is mine",
+                "focus": "Từ ngắn vẫn có thể chứa thông tin quan trọng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So mine đứng riêng với my trong my book; đọc mẫu trung tính rồi mẫu đối lập.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Từ ngắn vẫn có thể chứa thông tin quan trọng.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Nhấn đối lập có thể đổi mẫu",
+            "explanation": "You trong YOU did it có thể được nhấn để nói chính bạn, không phải người khác. Your trong YOUR book cũng có thể nhấn khi đối lập người sở hữu.",
+            "examples": [
+              {
+                "text": "You did it",
+                "ipa": "/ˈjuː dɪd ɪt/",
+                "meaning": "chính bạn đã làm điều đó",
+                "speak": "You did it",
+                "focus": "Không có danh sách từ chức năng bị cấm nhấn."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đổi trọng tâm từ YOU sang DID trong hai ngữ cảnh khác nhau, rồi nói nghĩa mình muốn sửa.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Không có danh sách từ chức năng bị cấm nhấn.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: phần này tương ứng PART 19 trong PDF. Không phải mọi từ nội dung đều được nhấn, và từ chức năng vẫn có thể được nhấn để đối lập."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "You có bị cấm nhấn vì là đại từ không?",
+          "answer": "Không.",
+          "explanation": "YOU did it có thể nhấn you khi đối lập người thực hiện."
+        }
+      }
     },
     {
       "id": "l29",
@@ -30741,13 +33714,6 @@ window.COURSE = {
         32
       ],
       "summary": "Luyện đường giọng theo loại câu, rồi điều chỉnh theo ý định nói.",
-      "rules": [
-        "Câu trần thuật và câu hỏi wh thường xuống giọng ở cuối.",
-        "Câu hỏi yes/no và yêu cầu lịch sự thường có thể lên giọng.",
-        "Liệt kê thường lên ở các mục chưa kết thúc và xuống ở mục cuối.",
-        "Cụm chưa kết thúc có thể giữ hoặc nâng giọng để báo còn ý tiếp."
-      ],
-      "note": "Bổ sung: phần này tương ứng PART 20 trong PDF. Đây là mẫu trung tính; cảm xúc, phép lịch sự, ý xác nhận và ngữ cảnh có thể làm đổi đường giọng. Giọng tổng hợp không thay thế mẫu ngữ điệu do giáo viên đọc.",
       "examples": [
         {
           "text": "I live here.",
@@ -31246,7 +34212,134 @@ window.COURSE = {
           ],
           "topic": "hỏi vọng và thái độ"
         }
-      ]
+      ],
+      "guide": {
+        "goal": "Nhận ra đường giọng cuối cụm theo mục đích nói và ý còn tiếp.",
+        "essentials": [
+          "Câu kể/wh trung tính thường xuống.",
+          "Yes/no và yêu cầu có thể lên.",
+          "Danh sách/cụm chưa hết báo ý còn tiếp."
+        ],
+        "terms": [
+          {
+            "term": "Ngữ điệu",
+            "definition": "Đường thay đổi cao độ trong câu, khác với trọng âm của từng từ."
+          },
+          {
+            "term": "Âm tiết và trọng âm",
+            "definition": "Âm tiết là một nhịp phát âm, thường có nguyên âm làm trung tâm. Trọng âm là phần được làm nổi bật. Dấu ˈ đứng trước âm tiết mang trọng âm chính; ˌ chỉ nhấn phụ."
+          }
+        ],
+        "sections": [
+          {
+            "title": "Xuống giọng khi kết thúc ý trung tính",
+            "explanation": "↘ nghĩa là cao độ hạ xuống, không phải chỉ giảm âm lượng. Câu kể hoàn chỉnh và câu hỏi wh lấy thông tin mới thường dùng mẫu này.",
+            "examples": [
+              {
+                "text": "Where do you live?",
+                "ipa": "/wer də jə ˈlɪv/ ↘",
+                "meaning": "bạn sống ở đâu?",
+                "speak": "Where do you live?",
+                "focus": "Wh hỏi vọng/ngạc nhiên có thể dùng mẫu khác."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc chậm, hạ cao độ ở cuối; so I live here /aɪ lɪv ˈhɪr/ ↘.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Wh hỏi vọng/ngạc nhiên có thể dùng mẫu khác.",
+            "covers": [
+              0
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Lên giọng trong một số câu hỏi",
+            "explanation": "↗ chỉ cao độ đi lên. Yes/no và yêu cầu lịch sự có thể dùng mẫu lên để hỏi thông tin; ý định khác có thể làm đổi đường giọng.",
+            "examples": [
+              {
+                "text": "Are you ready?",
+                "ipa": "/ɑːr jə ˈredi/ ↗",
+                "meaning": "bạn sẵn sàng chưa?",
+                "speak": "Are you ready?",
+                "focus": "Dấu hỏi không buộc mọi câu lên giọng."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "So câu này với câu kể I live here; cảm nhận cao độ thay vì chỉ nói to hơn.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Dấu hỏi không buộc mọi câu lên giọng.",
+            "covers": [
+              1
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Liệt kê: báo còn mục tiếp theo",
+            "explanation": "Các mục chưa cuối có thể lên/giữ giọng; mục cuối thường xuống trong danh sách hoàn chỉnh. Mẫu có thể khác khi người nói muốn để danh sách mở.",
+            "examples": [
+              {
+                "text": "apples, oranges, bananas",
+                "ipa": "/ˈæpəlz/ ↗ /ˈɔːrɪndʒɪz/ ↗ /bəˈnænəz/ ↘",
+                "meaning": "táo, cam, chuối",
+                "speak": "I bought apples, oranges, and bananas.",
+                "focus": "Kết thúc ý quan trọng hơn chỉ nhìn dấu phẩy."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc lần lượt, giữ nhịp còn tiếp ở hai mục đầu rồi hạ ở cuối.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Kết thúc ý quan trọng hơn chỉ nhìn dấu phẩy.",
+            "covers": [
+              2
+            ],
+            "caution": ""
+          },
+          {
+            "title": "Vế chưa kết thúc: giữ ý nối",
+            "explanation": "Một cụm điều kiện như If it rains có thể giữ/nâng giọng để báo còn vế chính sau. Dấu phẩy không quy định một đường giọng duy nhất.",
+            "examples": [
+              {
+                "text": "If it rains, we’ll stay home",
+                "ipa": "/ɪf ɪt reɪnz/ ↗ /wiːl steɪ hoʊm/ ↘",
+                "meaning": "nếu mưa, chúng tôi sẽ ở nhà",
+                "speak": "If it rains, we will stay home.",
+                "focus": "Giọng báo còn tiếp hay đã xong theo ý định nói."
+              }
+            ],
+            "steps": [
+              "Đọc chậm và xác định âm hoặc nhịp đang học.",
+              "Đọc hai vế liền ý, không dừng hẳn sau rains; giữ phụ âm cuối.",
+              "Nghe bằng nút bên cạnh, so với IPA rồi đọc lại cả từ hoặc cụm từ."
+            ],
+            "memory": "Giọng báo còn tiếp hay đã xong theo ý định nói.",
+            "covers": [
+              3
+            ],
+            "caution": ""
+          }
+        ],
+        "further": [
+          {
+            "title": "Giới hạn và biến thể cần nhớ",
+            "text": "Bổ sung: phần này tương ứng PART 20 trong PDF. Đây là mẫu trung tính; cảm xúc, phép lịch sự, ý xác nhận và ngữ cảnh có thể làm đổi đường giọng. Giọng tổng hợp không thay thế mẫu ngữ điệu do giáo viên đọc."
+          },
+          {
+            "title": "Cách dùng ví dụ và nút nghe",
+            "text": "Ví dụ ưu tiên giọng Anh–Mỹ. Một số từ điển ghi /ɛ/ thay /e/, /ɝ/ thay /ɜːr/, /ɚ/ thay /ər/. IPA của câu chỉ minh họa một cách đọc hợp ngữ cảnh. Nút nghe dùng giọng tổng hợp có sẵn, không bảo đảm thể hiện mọi âm nối, biến thể hoặc mũi tên ngữ điệu. Khi nút nghe dùng cả câu để làm rõ nghĩa, câu đó được ghi ngay dưới ví dụ."
+          }
+        ],
+        "selfCheck": {
+          "prompt": "Thấy dấu hỏi có đủ để kết luận phải lên giọng không?",
+          "answer": "Không.",
+          "explanation": "Where do you live? hỏi thông tin trung tính thường xuống; Are you ready? có thể lên. Ý định và ngữ cảnh quyết định."
+        }
+      }
     }
   ],
   "sourcePages": [

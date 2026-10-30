@@ -25,7 +25,7 @@ jobs:
           node --check app.js
           node --check content.js
           node --check core.js
-          node --test tests/core.test.cjs
+          node --test tests/core.test.cjs tests/guides.test.cjs
       - name: Prepare website
         run: |
           mkdir -p _site/assets

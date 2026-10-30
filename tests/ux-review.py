@@ -21,7 +21,7 @@ with sync_playwright() as p:
  page.goto(BASE_URL)
  snap('01-home-after')
  click(page.get_by_role('link',name='Bắt đầu phiên học'))
- page.locator('.rules').wait_for();snap('02-lesson-after')
+ page.locator('.lesson-guide').wait_for();snap('02-lesson-after')
  assert page.locator('[data-nav="lessons"]').evaluate('(el)=>el.classList.contains("active")')
  click(page.get_by_role('button',name='Đánh dấu đã đọc',exact=True))
  click(page.get_by_role('link',name='Luyện bài này'))
@@ -34,7 +34,7 @@ with sync_playwright() as p:
  assert page.locator('.option').first.evaluate('(el)=>getComputedStyle(el).opacity')=='1'
  snap('03-feedback-after')
  click(page.get_by_role('link',name='Xem bài học'))
- page.locator('.rules').wait_for()
+ page.locator('.lesson-guide').wait_for()
  assert page.get_by_role('link',name='Tiếp tục bài đang làm').count()==1
  click(page.locator('[data-nav="quiz"]'))
  page.locator('.resume-panel').wait_for();snap('04-resume-after')
@@ -55,8 +55,8 @@ with sync_playwright() as p:
  snap('08-review-done-after')
  page.set_viewport_size({'width':390,'height':844})
  route('lesson/l1')
- assert page.locator('.rules').bounding_box()['y']<844
- assert page.locator('.rules').bounding_box()['y']<page.locator('.side-meta').bounding_box()['y']
+ assert page.locator('.lesson-guide').bounding_box()['y']<844
+ assert page.locator('.lesson-guide').bounding_box()['y']<page.locator('.side-meta').bounding_box()['y']
  page.evaluate('document.querySelector("#toast").classList.remove("show")')
  snap('06-mobile-after')
  click(page.get_by_role('button',name='Tới phần luyện tập'))

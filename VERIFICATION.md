@@ -1,3 +1,17 @@
+# Kiểm chứng bài giảng mới — 2026-10-30
+
+- Đã chuyển đủ 29 bài sang `lesson.guide`: 104 mục giảng, 106 ví dụ IPA/nghĩa có nút nghe, 29 phần tự kiểm tra không tính điểm. Bảng đối chiếu quy tắc cũ và các điểm diễn giải nằm trong [LESSON_GUIDES.md](LESSON_GUIDES.md).
+- `node --test tests/core.test.cjs tests/guides.test.cjs`: 8/8 đạt. SHA-256 xác nhận toàn bộ trường bài học ngoài phần giảng giữ nguyên, gồm 1.201 câu luyện, các ID/đáp án/lời giải, ví dụ cũ; bản chữ 32 trang và practiceCoverage không đổi. Không sửa core.js hoặc assets/source.pdf.
+- `tests/guides.browser.js`: 116/116 tổ hợp bài/viewport/theme đạt (29 × desktop 1440/mobile 390 × sáng/tối); không tràn ngang hoặc lỗi JavaScript. Mọi phần Hiểu thêm và đáp án mở được bằng bàn phím. Toàn bộ 106 nút nghe mới gọi đúng chuỗi, 32 liên kết PDF đúng trang; tải PDF HTTP 200. Tìm kiếm thấy lời giảng mới. Đọc, mở đáp án và nghe giữ nguyên điểm, câu sai, lịch ôn, bài đã chọn và bài đã đọc.
+- Chạy lại `tests/browser.py`: điều hướng, tìm kiếm, đánh dấu đã đọc/hoàn thành, tải lại giữ tiến độ, ôn/lên lịch, câu sai, xuất/nhập bản sao và lỗi lưu trữ/âm thanh đều đạt.
+- Chạy lại `tests/practice.browser.js`: bản sao cũ, nhớ bài, luyện đủ câu, giải thích sau đảo đáp án, luyện sai, thẻ mới, sáu bố cục phản hồi và localStorage bị chặn đều đạt.
+- Chạy lại `tests/ux-review.py`: tiếp tục đúng câu/feedback, vị trí nội dung mobile, nút nghe 44px, thông báo âm thanh, ngày ôn và focus câu mới; 24 tổ hợp viewport/route đạt. Chỉ cập nhật selector của phần giảng trong kiểm thử UX.
+- Kiểm tra cú pháp JavaScript và `git diff --check` đạt. 48 ảnh phần mở đầu/chi tiết của l1/l6/l9/l15/l16/l27 ở hai viewport và hai theme lưu trong `output/playwright/` (không đưa vào Git). Đã xem trực tiếp ảnh đại diện sáu chủ đề và phần giải thích dài mở rộng; chữ/IPA xuống dòng, nút nghe và focus rõ trên sáng/tối. Ảnh UX hồi quy ở `output/playwright/guides-ux/`.
+- Môi trường: Chrome Dev headless trên macOS, máy chủ local cổng 8011, Python Playwright cài trong thư mục tạm ngoài dự án. Mock Web Speech dùng để kiểm tra chuỗi/handler và trạng thái thiếu âm thanh; chưa nghe thẩm định 106 ví dụ bằng giọng thật. Chưa kiểm tra Safari/Firefox hoặc điện thoại thật. Favicon 404 của máy chủ local không phải lỗi JavaScript.
+- Chỉ thay nội dung/giao diện local và kiểm thử/tài liệu. Chưa commit, push hoặc deploy.
+
+Các mục dưới là lịch sử kiểm chứng của những phiên bản trước.
+
 # Kiểm tra bản bàn giao
 
 ## Mở rộng Luyện tập — 2026-10-29
